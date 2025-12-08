@@ -1,0 +1,3260 @@
+[
+  {
+    "countryCode": "CZ",
+    "defaultLocale": "cs-CZ",
+    "availableLocales": [
+      "cs-CZ"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/cz/contact",
+        "telephone": "+420720060603",
+        "email": "czech@smallerearth.com"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearthczechia",
+        "instagram": "https://www.instagram.com/smallerearthcz/",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@CampleadersSlovakia/"
+      },
+      "url": "https://www.smallerearth.com/cz/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/cz"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/cz/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/cz/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/cz/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/cz/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/cz/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/cz/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/cz/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/cz/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/cz/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/cz/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/cz/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/cz/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/cz/esims"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/cz/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/cz/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/teaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/cz/work-abroad/teaching-jobs-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/cz/programs/camp-leaders"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/cz/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/resort-internships-in-america",
+        "url": "https://www.smallerearth.com/cz/programs/resort-leaders-staz"
+      },
+      {
+        "pageId": "/programs/summer-resort-jobs-in-america",
+        "url": "https://www.smallerearth.com/cz/programs/resort-leaders"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/cz/programs/summer-camp-in-canada"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "AU",
+    "defaultLocale": "en-AU",
+    "availableLocales": [
+      "en-AU"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/au/contact"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearth/?locale=en_GB",
+        "instagram": "https://instagram.com/smallerearth?igshid=OGQ5ZDc2ODk2ZA==",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@smallerearth178"
+      },
+      "url": "https://www.smallerearth.com/au/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/au"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/au/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/au/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/au/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/au/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/au/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/au/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/au/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/au/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/au/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/au/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/au/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/au/esims"
+      },
+      {
+        "pageId": "/blog/10-reasons-why-you-should-travel-the-world",
+        "url": "https://www.smallerearth.com/au/blog/10-reasons-why-you-should-travel-the-world"
+      },
+      {
+        "pageId": "/blog/12-of-the-best-free-things-to-do-in-new-york",
+        "url": "https://www.smallerearth.com/au/blog/11-of-the-best-free-things-to-do-in-new-york"
+      },
+      {
+        "pageId": "/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp",
+        "url": "https://www.smallerearth.com/au/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp"
+      },
+      {
+        "pageId": "/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism",
+        "url": "https://www.smallerearth.com/au/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism"
+      },
+      {
+        "pageId": "/blog/16-amazing-national-parks-in-the-us-you-have-to-visit",
+        "url": "https://www.smallerearth.com/au/blog/16-amazing-national-parks-in-the-us-you-have-to-visit"
+      },
+      {
+        "pageId": "/blog/25-short-travel-quotes-to-inspire-your-wanderlust",
+        "url": "https://www.smallerearth.com/au/blog/25-short-travel-quotes-to-inspire-your-wanderlust"
+      },
+      {
+        "pageId": "/blog/25-things-to-add-to-your-travel-bucket-list",
+        "url": "https://www.smallerearth.com/au/blog/25-things-to-add-to-your-travel-bucket-list"
+      },
+      {
+        "pageId": "/blog/5-huge-myths-about-canada",
+        "url": "https://www.smallerearth.com/au/blog/5-huge-myths-about-canada"
+      },
+      {
+        "pageId": "/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad",
+        "url": "https://www.smallerearth.com/au/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad"
+      },
+      {
+        "pageId": "/blog/5-must-haves-to-travel-china-after-summer-camp",
+        "url": "https://www.smallerearth.com/au/blog/5-must-haves-to-travel-china-after-summer-camp"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-budget-destinations-around-the-world",
+        "url": "https://www.smallerearth.com/au/blog/5-of-the-best-budget-destinations-around-the-world"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-scenic-drives-in-canada",
+        "url": "https://www.smallerearth.com/au/blog/5-of-the-best-scenic-drives-in-canada"
+      },
+      {
+        "pageId": "/blog/5-tips-for-staying-healthy-while-travelling",
+        "url": "https://www.smallerearth.com/au/blog/5-tips-for-staying-healthy-while-travelling"
+      },
+      {
+        "pageId": "/blog/5-travel-fears-you-can-overcome-through-action",
+        "url": "https://www.smallerearth.com/au/blog/5-travel-fears-you-can-overcome-through-action"
+      },
+      {
+        "pageId": "/blog/6-reasons-why-canada-is-perfect-for-solo-travellers",
+        "url": "https://www.smallerearth.com/au/blog/6-reasons-why-canada-is-perfect-for-solo-travellers"
+      },
+      {
+        "pageId": "/blog/7-top-tips-for-solo-travel-in-new-york",
+        "url": "https://www.smallerearth.com/au/blog/7-top-tips-for-solo-travel-in-new-york"
+      },
+      {
+        "pageId": "/blog/7-ways-to-beat-your-fear-of-travel",
+        "url": "https://www.smallerearth.com/au/blog/7-ways-to-beat-your-fear-of-travel"
+      },
+      {
+        "pageId": "/blog/8-breathtaking-places-you-must-visit-in-new-zealand",
+        "url": "https://www.smallerearth.com/au/blog/8-breathtaking-places-you-must-visit-in-new-zealand"
+      },
+      {
+        "pageId": "/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure",
+        "url": "https://www.smallerearth.com/au/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure"
+      },
+      {
+        "pageId": "/blog/8-traditional-festivals-around-the-world-you-have-to-experience",
+        "url": "https://www.smallerearth.com/au/blog/8-traditional-festivals-around-the-world-you-have-to-experience"
+      },
+      {
+        "pageId": "/blog/9-benefits-of-traveling-that-will-help-your-career",
+        "url": "https://www.smallerearth.com/au/blog/9-benefits-of-traveling-that-will-help-your-career"
+      },
+      {
+        "pageId": "/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa",
+        "url": "https://www.smallerearth.com/au/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa"
+      },
+      {
+        "pageId": "/blog/9-self-development-strategies-to-try-when-travelling",
+        "url": "https://www.smallerearth.com/au/blog/9-self-development-strategies-to-try-when-travelling"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china",
+        "url": "https://www.smallerearth.com/au/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-solo-travel",
+        "url": "https://www.smallerearth.com/au/blog/a-beginners-guide-to-solo-travel"
+      },
+      {
+        "pageId": "/blog/goal-setting-in-2024-how-to-make-travel-a-priority",
+        "url": "https://www.smallerearth.com/au/blog/goal-setting-in-2024-how-to-make-travel-a-priority"
+      },
+      {
+        "pageId": "/blog/going-green-6-destinations-for-the-sustainable-tourist",
+        "url": "https://www.smallerearth.com/au/blog/going-green-6-destinations-for-the-sustainable-tourist"
+      },
+      {
+        "pageId": "/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world",
+        "url": "https://www.smallerearth.com/au/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world"
+      },
+      {
+        "pageId": "/blog/how-studying-abroad-shapes-your-adult-identity",
+        "url": "https://www.smallerearth.com/au/blog/how-studying-abroad-shapes-your-adult-identity"
+      },
+      {
+        "pageId": "/blog/how-to-create-a-sustainable-packing-list",
+        "url": "https://www.smallerearth.com/au/blog/how-to-create-a-sustainable-packing-list"
+      },
+      {
+        "pageId": "/blog/how-to-develop-your-sense-of-self-during-travel",
+        "url": "https://www.smallerearth.com/au/blog/how-to-develop-your-sense-of-self-during-travel"
+      },
+      {
+        "pageId": "/blog/how-to-land-your-dream-water-sports-summer-job-abroad",
+        "url": "https://www.smallerearth.com/au/blog/how-to-land-your-dream-water-sports-summer-job-abroad"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-auckland",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-48-hours-in-auckland"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-beijing",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-48-hours-in-beijing"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-nashville",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-48-hours-in-nashville"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-new-york-city",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-48-hours-in-new-york-city"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-san-francisco",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-48-hours-in-san-francisco"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-seattle",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-48-hours-in-seattle"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-toronto",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-48-hours-in-toronto"
+      },
+      {
+        "pageId": "/blog/how-to-spend-a-day-indoors-in-las-vegas",
+        "url": "https://www.smallerearth.com/au/blog/how-to-spend-a-day-indoors-in-las-vegas"
+      },
+      {
+        "pageId": "/blog/how-to-stretch-your-savings-and-travel-more-of-the-world",
+        "url": "https://www.smallerearth.com/au/blog/how-to-stretch-your-savings-and-travel-more-of-the-world"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-1",
+        "url": "https://www.smallerearth.com/au/blog/how-to-travel-the-world-on-a-budget-part-1"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-2",
+        "url": "https://www.smallerearth.com/au/blog/how-to-travel-the-world-on-a-budget-part-2"
+      },
+      {
+        "pageId": "/blog/how-to-travel-toronto-like-a-local-this-summer",
+        "url": "https://www.smallerearth.com/au/blog/how-to-travel-toronto-like-a-local-this-summer"
+      },
+      {
+        "pageId": "/blog/incredible-chinese-train-journeys-that-you-have-to-try",
+        "url": "https://www.smallerearth.com/au/blog/incredible-chinese-train-journeys-that-you-have-to-try"
+      },
+      {
+        "pageId": "/blog/interesting-facts-about-canada-that-will-blow-your-mind",
+        "url": "https://www.smallerearth.com/au/blog/interesting-facts-about-canada-that-will-blow-your-mind"
+      },
+      {
+        "pageId": "/blog/new-year-new-journey",
+        "url": "https://www.smallerearth.com/au/blog/new-year-new-journey"
+      },
+      {
+        "pageId": "/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers",
+        "url": "https://www.smallerearth.com/au/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers"
+      },
+      {
+        "pageId": "/blog/summer-camp-stories-claudias-experience",
+        "url": "https://www.smallerearth.com/au/blog/summer-camp-stories-claudias-experience"
+      },
+      {
+        "pageId": "/blog/summer-camp-stories-pennys-experience",
+        "url": "https://www.smallerearth.com/au/blog/summer-camp-stories-pennys-experience"
+      },
+      {
+        "pageId": "/blog/the-14-most-adventurous-jobs-in-the-world",
+        "url": "https://www.smallerearth.com/au/blog/the-14-most-adventurous-jobs-in-the-world"
+      },
+      {
+        "pageId": "/blog/the-best-things-to-do-on-a-budget-in-beijing",
+        "url": "https://www.smallerearth.com/au/blog/the-best-things-to-do-on-a-budget-in-beijing"
+      },
+      {
+        "pageId": "/blog/the-top-7-china-travel-experiences-you-need-to-have",
+        "url": "https://www.smallerearth.com/au/blog/the-top-7-china-travel-experiences-you-need-to-have"
+      },
+      {
+        "pageId": "/blog/the-ultimate-chinese-provinces-guide",
+        "url": "https://www.smallerearth.com/au/blog/the-ultimate-chinese-provinces-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-new-zealand-working-holiday-guide",
+        "url": "https://www.smallerearth.com/au/blog/the-ultimate-new-zealand-working-holiday-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-ontario-summer-bucket-list",
+        "url": "https://www.smallerearth.com/au/blog/the-ultimate-ontario-summer-bucket-list"
+      },
+      {
+        "pageId": "/blog/what-is-mindful-travel-and-why-do-we-need-it",
+        "url": "https://www.smallerearth.com/au/blog/what-is-mindful-travel-and-why-do-we-need-it"
+      },
+      {
+        "pageId": "/blog/where-to-travel-in-south-east-asia",
+        "url": "https://www.smallerearth.com/au/blog/where-to-travel-in-south-east-asia"
+      },
+      {
+        "pageId": "/blog/why-embracing-change-is-essential-to-growth",
+        "url": "https://www.smallerearth.com/au/blog/why-embracing-change-is-essential-to-growth"
+      },
+      {
+        "pageId": "/blog/why-summer-camp-was-the-best-career-decision-i-ever-made",
+        "url": "https://www.smallerearth.com/au/blog/why-summer-camp-was-the-best-career-decision-i-ever-made"
+      },
+      {
+        "pageId": "/blog/why-travel-is-the-best-education-you-can-get",
+        "url": "https://www.smallerearth.com/au/blog/why-travel-is-the-best-education-you-can-get"
+      },
+      {
+        "pageId": "/blog/why-working-at-summer-camp-is-perfect-for-students",
+        "url": "https://www.smallerearth.com/au/blog/why-working-at-summer-camp-is-perfect-for-students"
+      },
+      {
+        "pageId": "/blog/your-guide-to-being-an-environmentally-aware-traveller",
+        "url": "https://www.smallerearth.com/au/blog/your-guide-to-being-an-environmentally-aware-traveller"
+      },
+      {
+        "pageId": "/blog/your-guide-to-moving-to-another-country-alone",
+        "url": "https://www.smallerearth.com/au/blog/your-guide-to-moving-to-another-country-alone"
+      },
+      {
+        "pageId": "/blog/your-guide-to-summer-camp-provinces-in-canada",
+        "url": "https://www.smallerearth.com/au/blog/your-guide-to-summer-camp-provinces-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-best-national-parks-in-canada",
+        "url": "https://www.smallerearth.com/au/blog/your-guide-to-the-best-national-parks-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-important-interview-questions-for-summer-camp",
+        "url": "https://www.smallerearth.com/au/blog/your-guide-to-the-important-interview-questions-for-summer-camp"
+      },
+      {
+        "pageId": "/destinations/australia",
+        "url": "https://www.smallerearth.com/au/destinations/australia"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-china",
+        "url": "https://www.smallerearth.com/au/destinations/work-abroad-in-china"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/au/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-canada",
+        "url": "https://www.smallerearth.com/au/destinations/work-abroad-in-canada"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-japan",
+        "url": "https://www.smallerearth.com/au/destinations/work-abroad-in-japan"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-new-zealand",
+        "url": "https://www.smallerearth.com/au/destinations/work-abroad-in-new-zealand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-south-korea",
+        "url": "https://www.smallerearth.com/au/destinations/work-abroad-in-south-korea"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/outdoor-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/outdoor-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/sports-coaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/sports-coaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/student-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/student-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/teaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/teaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/volunteer-abroad",
+        "url": "https://www.smallerearth.com/au/work-abroad/volunteer-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/au/programs/summer-camp-in-america"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/au/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/au/programs/summer-camp-in-canada"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "NZ",
+    "defaultLocale": "en-NZ",
+    "availableLocales": [
+      "en-NZ"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/nz/contact"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearth/?locale=en_GB",
+        "instagram": "https://instagram.com/smallerearth?igshid=OGQ5ZDc2ODk2ZA==",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@smallerearth178"
+      },
+      "url": "https://www.smallerearth.com/nz/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/nz"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/nz/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/nz/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/nz/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/nz/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/nz/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/nz/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/nz/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/nz/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/nz/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/nz/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/nz/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/nz/esims"
+      },
+      {
+        "pageId": "/blog/10-reasons-why-you-should-travel-the-world",
+        "url": "https://www.smallerearth.com/nz/blog/10-reasons-why-you-should-travel-the-world"
+      },
+      {
+        "pageId": "/blog/12-of-the-best-free-things-to-do-in-new-york",
+        "url": "https://www.smallerearth.com/nz/blog/11-of-the-best-free-things-to-do-in-new-york"
+      },
+      {
+        "pageId": "/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp",
+        "url": "https://www.smallerearth.com/nz/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp"
+      },
+      {
+        "pageId": "/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism",
+        "url": "https://www.smallerearth.com/nz/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism"
+      },
+      {
+        "pageId": "/blog/16-amazing-national-parks-in-the-us-you-have-to-visit",
+        "url": "https://www.smallerearth.com/nz/blog/16-amazing-national-parks-in-the-us-you-have-to-visit"
+      },
+      {
+        "pageId": "/blog/25-short-travel-quotes-to-inspire-your-wanderlust",
+        "url": "https://www.smallerearth.com/nz/blog/25-short-travel-quotes-to-inspire-your-wanderlust"
+      },
+      {
+        "pageId": "/blog/25-things-to-add-to-your-travel-bucket-list",
+        "url": "https://www.smallerearth.com/nz/blog/25-things-to-add-to-your-travel-bucket-list"
+      },
+      {
+        "pageId": "/blog/5-huge-myths-about-canada",
+        "url": "https://www.smallerearth.com/nz/blog/5-huge-myths-about-canada"
+      },
+      {
+        "pageId": "/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad",
+        "url": "https://www.smallerearth.com/nz/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad"
+      },
+      {
+        "pageId": "/blog/5-must-haves-to-travel-china-after-summer-camp",
+        "url": "https://www.smallerearth.com/nz/blog/5-must-haves-to-travel-china-after-summer-camp"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-budget-destinations-around-the-world",
+        "url": "https://www.smallerearth.com/nz/blog/5-of-the-best-budget-destinations-around-the-world"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-scenic-drives-in-canada",
+        "url": "https://www.smallerearth.com/nz/blog/5-of-the-best-scenic-drives-in-canada"
+      },
+      {
+        "pageId": "/blog/5-tips-for-staying-healthy-while-travelling",
+        "url": "https://www.smallerearth.com/nz/blog/5-tips-for-staying-healthy-while-travelling"
+      },
+      {
+        "pageId": "/blog/5-travel-fears-you-can-overcome-through-action",
+        "url": "https://www.smallerearth.com/nz/blog/5-travel-fears-you-can-overcome-through-action"
+      },
+      {
+        "pageId": "/blog/6-reasons-why-canada-is-perfect-for-solo-travellers",
+        "url": "https://www.smallerearth.com/nz/blog/6-reasons-why-canada-is-perfect-for-solo-travellers"
+      },
+      {
+        "pageId": "/blog/7-top-tips-for-solo-travel-in-new-york",
+        "url": "https://www.smallerearth.com/nz/blog/7-top-tips-for-solo-travel-in-new-york"
+      },
+      {
+        "pageId": "/blog/7-ways-to-beat-your-fear-of-travel",
+        "url": "https://www.smallerearth.com/nz/blog/7-ways-to-beat-your-fear-of-travel"
+      },
+      {
+        "pageId": "/blog/8-breathtaking-places-you-must-visit-in-new-zealand",
+        "url": "https://www.smallerearth.com/nz/blog/8-breathtaking-places-you-must-visit-in-new-zealand"
+      },
+      {
+        "pageId": "/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure",
+        "url": "https://www.smallerearth.com/nz/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure"
+      },
+      {
+        "pageId": "/blog/8-traditional-festivals-around-the-world-you-have-to-experience",
+        "url": "https://www.smallerearth.com/nz/blog/8-traditional-festivals-around-the-world-you-have-to-experience"
+      },
+      {
+        "pageId": "/blog/9-benefits-of-traveling-that-will-help-your-career",
+        "url": "https://www.smallerearth.com/nz/blog/9-benefits-of-traveling-that-will-help-your-career"
+      },
+      {
+        "pageId": "/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa",
+        "url": "https://www.smallerearth.com/nz/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa"
+      },
+      {
+        "pageId": "/blog/9-self-development-strategies-to-try-when-travelling",
+        "url": "https://www.smallerearth.com/nz/blog/9-self-development-strategies-to-try-when-travelling"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china",
+        "url": "https://www.smallerearth.com/nz/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-solo-travel",
+        "url": "https://www.smallerearth.com/nz/blog/a-beginners-guide-to-solo-travel"
+      },
+      {
+        "pageId": "/blog/goal-setting-in-2024-how-to-make-travel-a-priority",
+        "url": "https://www.smallerearth.com/nz/blog/goal-setting-in-2024-how-to-make-travel-a-priority"
+      },
+      {
+        "pageId": "/blog/going-green-6-destinations-for-the-sustainable-tourist",
+        "url": "https://www.smallerearth.com/nz/blog/going-green-6-destinations-for-the-sustainable-tourist"
+      },
+      {
+        "pageId": "/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world",
+        "url": "https://www.smallerearth.com/nz/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world"
+      },
+      {
+        "pageId": "/blog/how-studying-abroad-shapes-your-adult-identity",
+        "url": "https://www.smallerearth.com/nz/blog/how-studying-abroad-shapes-your-adult-identity"
+      },
+      {
+        "pageId": "/blog/how-to-create-a-sustainable-packing-list",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-create-a-sustainable-packing-list"
+      },
+      {
+        "pageId": "/blog/how-to-develop-your-sense-of-self-during-travel",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-develop-your-sense-of-self-during-travel"
+      },
+      {
+        "pageId": "/blog/how-to-land-your-dream-water-sports-summer-job-abroad",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-land-your-dream-water-sports-summer-job-abroad"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-auckland",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-48-hours-in-auckland"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-beijing",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-48-hours-in-beijing"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-nashville",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-48-hours-in-nashville"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-new-york-city",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-48-hours-in-new-york-city"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-san-francisco",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-48-hours-in-san-francisco"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-seattle",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-48-hours-in-seattle"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-toronto",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-48-hours-in-toronto"
+      },
+      {
+        "pageId": "/blog/how-to-spend-a-day-indoors-in-las-vegas",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-spend-a-day-indoors-in-las-vegas"
+      },
+      {
+        "pageId": "/blog/how-to-stretch-your-savings-and-travel-more-of-the-world",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-stretch-your-savings-and-travel-more-of-the-world"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-1",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-travel-the-world-on-a-budget-part-1"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-2",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-travel-the-world-on-a-budget-part-2"
+      },
+      {
+        "pageId": "/blog/how-to-travel-toronto-like-a-local-this-summer",
+        "url": "https://www.smallerearth.com/nz/blog/how-to-travel-toronto-like-a-local-this-summer"
+      },
+      {
+        "pageId": "/blog/incredible-chinese-train-journeys-that-you-have-to-try",
+        "url": "https://www.smallerearth.com/nz/blog/incredible-chinese-train-journeys-that-you-have-to-try"
+      },
+      {
+        "pageId": "/blog/interesting-facts-about-canada-that-will-blow-your-mind",
+        "url": "https://www.smallerearth.com/nz/blog/interesting-facts-about-canada-that-will-blow-your-mind"
+      },
+      {
+        "pageId": "/blog/new-year-new-journey",
+        "url": "https://www.smallerearth.com/nz/blog/new-year-new-journey"
+      },
+      {
+        "pageId": "/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers",
+        "url": "https://www.smallerearth.com/nz/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers"
+      },
+      {
+        "pageId": "/blog/summer-camp-stories-claudias-experience",
+        "url": "https://www.smallerearth.com/nz/blog/summer-camp-stories-claudias-experience"
+      },
+      {
+        "pageId": "/blog/summer-camp-stories-jesss-experience-2",
+        "url": "https://www.smallerearth.com/nz/blog/summer-camp-stories-jesss-experience-2"
+      },
+      {
+        "pageId": "/blog/summer-camp-stories-pennys-experience",
+        "url": "https://www.smallerearth.com/nz/blog/summer-camp-stories-pennys-experience"
+      },
+      {
+        "pageId": "/blog/the-14-most-adventurous-jobs-in-the-world",
+        "url": "https://www.smallerearth.com/nz/blog/the-14-most-adventurous-jobs-in-the-world"
+      },
+      {
+        "pageId": "/blog/the-best-things-to-do-on-a-budget-in-beijing",
+        "url": "https://www.smallerearth.com/nz/blog/the-best-things-to-do-on-a-budget-in-beijing"
+      },
+      {
+        "pageId": "/blog/the-top-7-china-travel-experiences-you-need-to-have",
+        "url": "https://www.smallerearth.com/nz/blog/the-top-7-china-travel-experiences-you-need-to-have"
+      },
+      {
+        "pageId": "/blog/the-ultimate-chinese-provinces-guide",
+        "url": "https://www.smallerearth.com/nz/blog/the-ultimate-chinese-provinces-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-new-zealand-working-holiday-guide",
+        "url": "https://www.smallerearth.com/nz/blog/the-ultimate-new-zealand-working-holiday-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-ontario-summer-bucket-list",
+        "url": "https://www.smallerearth.com/nz/blog/the-ultimate-ontario-summer-bucket-list"
+      },
+      {
+        "pageId": "/blog/what-is-mindful-travel-and-why-do-we-need-it",
+        "url": "https://www.smallerearth.com/nz/blog/what-is-mindful-travel-and-why-do-we-need-it"
+      },
+      {
+        "pageId": "/blog/where-to-travel-in-south-east-asia",
+        "url": "https://www.smallerearth.com/nz/blog/where-to-travel-in-south-east-asia"
+      },
+      {
+        "pageId": "/blog/why-embracing-change-is-essential-to-growth",
+        "url": "https://www.smallerearth.com/nz/blog/why-embracing-change-is-essential-to-growth"
+      },
+      {
+        "pageId": "/blog/why-summer-camp-was-the-best-career-decision-i-ever-made",
+        "url": "https://www.smallerearth.com/nz/blog/why-summer-camp-was-the-best-career-decision-i-ever-made"
+      },
+      {
+        "pageId": "/blog/why-travel-is-the-best-education-you-can-get",
+        "url": "https://www.smallerearth.com/nz/blog/why-travel-is-the-best-education-you-can-get"
+      },
+      {
+        "pageId": "/blog/why-working-at-summer-camp-is-perfect-for-students",
+        "url": "https://www.smallerearth.com/nz/blog/why-working-at-summer-camp-is-perfect-for-students"
+      },
+      {
+        "pageId": "/blog/your-guide-to-being-an-environmentally-aware-traveller",
+        "url": "https://www.smallerearth.com/nz/blog/your-guide-to-being-an-environmentally-aware-traveller"
+      },
+      {
+        "pageId": "/blog/your-guide-to-moving-to-another-country-alone",
+        "url": "https://www.smallerearth.com/nz/blog/your-guide-to-moving-to-another-country-alone"
+      },
+      {
+        "pageId": "/blog/your-guide-to-summer-camp-provinces-in-canada",
+        "url": "https://www.smallerearth.com/nz/blog/your-guide-to-summer-camp-provinces-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-best-national-parks-in-canada",
+        "url": "https://www.smallerearth.com/nz/blog/your-guide-to-the-best-national-parks-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-important-interview-questions-for-summer-camp",
+        "url": "https://www.smallerearth.com/nz/blog/your-guide-to-the-important-interview-questions-for-summer-camp"
+      },
+      {
+        "pageId": "/destinations/australia",
+        "url": "https://www.smallerearth.com/nz/destinations/australia"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-china",
+        "url": "https://www.smallerearth.com/nz/destinations/work-abroad-in-china"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/nz/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-canada",
+        "url": "https://www.smallerearth.com/nz/destinations/work-abroad-in-canada"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-japan",
+        "url": "https://www.smallerearth.com/nz/destinations/work-abroad-in-japan"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-new-zealand",
+        "url": "https://www.smallerearth.com/nz/destinations/work-abroad-in-new-zealand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-south-korea",
+        "url": "https://www.smallerearth.com/nz/destinations/work-abroad-in-south-korea"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/outdoor-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/outdoor-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/sports-coaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/sports-coaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/student-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/student-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/teaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/teaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/volunteer-abroad",
+        "url": "https://www.smallerearth.com/nz/work-abroad/volunteer-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/nz/programs/summer-camp-in-america"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/nz/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/nz/programs/summer-camp-in-canada"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "HU",
+    "defaultLocale": "hu-HU",
+    "availableLocales": [
+      "hu-HU"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/hu/contact"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearth/?locale=en_GB",
+        "instagram": "https://instagram.com/smallerearth?igshid=OGQ5ZDc2ODk2ZA==",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@smallerearth178"
+      },
+      "url": "https://www.smallerearth.com/hu/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/hu"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/hu/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/hu/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/hu/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/hu/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/hu/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/hu/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/hu/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/hu/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/hu/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/hu/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/hu/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/hu/esims"
+      },
+      {
+        "pageId": "/blog/10-reasons-why-you-should-travel-the-world",
+        "url": "https://www.smallerearth.com/hu/blog/10-reasons-why-you-should-travel-the-world"
+      },
+      {
+        "pageId": "/blog/12-of-the-best-free-things-to-do-in-new-york",
+        "url": "https://www.smallerearth.com/hu/blog/11-of-the-best-free-things-to-do-in-new-york"
+      },
+      {
+        "pageId": "/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp",
+        "url": "https://www.smallerearth.com/hu/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp"
+      },
+      {
+        "pageId": "/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism",
+        "url": "https://www.smallerearth.com/hu/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism"
+      },
+      {
+        "pageId": "/blog/16-amazing-national-parks-in-the-us-you-have-to-visit",
+        "url": "https://www.smallerearth.com/hu/blog/16-amazing-national-parks-in-the-us-you-have-to-visit"
+      },
+      {
+        "pageId": "/blog/25-short-travel-quotes-to-inspire-your-wanderlust",
+        "url": "https://www.smallerearth.com/hu/blog/25-short-travel-quotes-to-inspire-your-wanderlust"
+      },
+      {
+        "pageId": "/blog/25-things-to-add-to-your-travel-bucket-list",
+        "url": "https://www.smallerearth.com/hu/blog/25-things-to-add-to-your-travel-bucket-list"
+      },
+      {
+        "pageId": "/blog/5-huge-myths-about-canada",
+        "url": "https://www.smallerearth.com/hu/blog/5-huge-myths-about-canada"
+      },
+      {
+        "pageId": "/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad",
+        "url": "https://www.smallerearth.com/hu/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad"
+      },
+      {
+        "pageId": "/blog/5-must-haves-to-travel-china-after-summer-camp",
+        "url": "https://www.smallerearth.com/hu/blog/5-must-haves-to-travel-china-after-summer-camp"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-budget-destinations-around-the-world",
+        "url": "https://www.smallerearth.com/hu/blog/5-of-the-best-budget-destinations-around-the-world"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-scenic-drives-in-canada",
+        "url": "https://www.smallerearth.com/hu/blog/5-of-the-best-scenic-drives-in-canada"
+      },
+      {
+        "pageId": "/blog/5-tips-for-staying-healthy-while-travelling",
+        "url": "https://www.smallerearth.com/hu/blog/5-tips-for-staying-healthy-while-travelling"
+      },
+      {
+        "pageId": "/blog/5-travel-fears-you-can-overcome-through-action",
+        "url": "https://www.smallerearth.com/hu/blog/5-travel-fears-you-can-overcome-through-action"
+      },
+      {
+        "pageId": "/blog/6-reasons-why-canada-is-perfect-for-solo-travellers",
+        "url": "https://www.smallerearth.com/hu/blog/6-reasons-why-canada-is-perfect-for-solo-travellers"
+      },
+      {
+        "pageId": "/blog/7-top-tips-for-solo-travel-in-new-york",
+        "url": "https://www.smallerearth.com/hu/blog/7-top-tips-for-solo-travel-in-new-york"
+      },
+      {
+        "pageId": "/blog/7-ways-to-beat-your-fear-of-travel",
+        "url": "https://www.smallerearth.com/hu/blog/7-ways-to-beat-your-fear-of-travel"
+      },
+      {
+        "pageId": "/blog/8-breathtaking-places-you-must-visit-in-new-zealand",
+        "url": "https://www.smallerearth.com/hu/blog/8-breathtaking-places-you-must-visit-in-new-zealand"
+      },
+      {
+        "pageId": "/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure",
+        "url": "https://www.smallerearth.com/hu/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure"
+      },
+      {
+        "pageId": "/blog/8-traditional-festivals-around-the-world-you-have-to-experience",
+        "url": "https://www.smallerearth.com/hu/blog/8-traditional-festivals-around-the-world-you-have-to-experience"
+      },
+      {
+        "pageId": "/blog/9-benefits-of-traveling-that-will-help-your-career",
+        "url": "https://www.smallerearth.com/hu/blog/9-benefits-of-traveling-that-will-help-your-career"
+      },
+      {
+        "pageId": "/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa",
+        "url": "https://www.smallerearth.com/hu/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa"
+      },
+      {
+        "pageId": "/blog/9-self-development-strategies-to-try-when-travelling",
+        "url": "https://www.smallerearth.com/hu/blog/9-self-development-strategies-to-try-when-travelling"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china",
+        "url": "https://www.smallerearth.com/hu/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-solo-travel",
+        "url": "https://www.smallerearth.com/hu/blog/a-beginners-guide-to-solo-travel"
+      },
+      {
+        "pageId": "/blog/goal-setting-in-2024-how-to-make-travel-a-priority",
+        "url": "https://www.smallerearth.com/hu/blog/goal-setting-in-2024-how-to-make-travel-a-priority"
+      },
+      {
+        "pageId": "/blog/going-green-6-destinations-for-the-sustainable-tourist",
+        "url": "https://www.smallerearth.com/hu/blog/going-green-6-destinations-for-the-sustainable-tourist"
+      },
+      {
+        "pageId": "/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world",
+        "url": "https://www.smallerearth.com/hu/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world"
+      },
+      {
+        "pageId": "/blog/how-studying-abroad-shapes-your-adult-identity",
+        "url": "https://www.smallerearth.com/hu/blog/how-studying-abroad-shapes-your-adult-identity"
+      },
+      {
+        "pageId": "/blog/how-to-create-a-sustainable-packing-list",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-create-a-sustainable-packing-list"
+      },
+      {
+        "pageId": "/blog/how-to-develop-your-sense-of-self-during-travel",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-develop-your-sense-of-self-during-travel"
+      },
+      {
+        "pageId": "/blog/how-to-land-your-dream-water-sports-summer-job-abroad",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-land-your-dream-water-sports-summer-job-abroad"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-auckland",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-48-hours-in-auckland"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-beijing",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-48-hours-in-beijing"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-nashville",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-48-hours-in-nashville"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-new-york-city",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-48-hours-in-new-york-city"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-san-francisco",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-48-hours-in-san-francisco"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-seattle",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-48-hours-in-seattle"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-toronto",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-48-hours-in-toronto"
+      },
+      {
+        "pageId": "/blog/how-to-spend-a-day-indoors-in-las-vegas",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-spend-a-day-indoors-in-las-vegas"
+      },
+      {
+        "pageId": "/blog/how-to-stretch-your-savings-and-travel-more-of-the-world",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-stretch-your-savings-and-travel-more-of-the-world"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-1",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-travel-the-world-on-a-budget-part-1"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-2",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-travel-the-world-on-a-budget-part-2"
+      },
+      {
+        "pageId": "/blog/how-to-travel-toronto-like-a-local-this-summer",
+        "url": "https://www.smallerearth.com/hu/blog/how-to-travel-toronto-like-a-local-this-summer"
+      },
+      {
+        "pageId": "/blog/incredible-chinese-train-journeys-that-you-have-to-try",
+        "url": "https://www.smallerearth.com/hu/blog/incredible-chinese-train-journeys-that-you-have-to-try"
+      },
+      {
+        "pageId": "/blog/interesting-facts-about-canada-that-will-blow-your-mind",
+        "url": "https://www.smallerearth.com/hu/blog/interesting-facts-about-canada-that-will-blow-your-mind"
+      },
+      {
+        "pageId": "/blog/new-year-new-journey",
+        "url": "https://www.smallerearth.com/hu/blog/new-year-new-journey"
+      },
+      {
+        "pageId": "/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers",
+        "url": "https://www.smallerearth.com/hu/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers"
+      },
+      {
+        "pageId": "/blog/the-14-most-adventurous-jobs-in-the-world",
+        "url": "https://www.smallerearth.com/hu/blog/the-14-most-adventurous-jobs-in-the-world"
+      },
+      {
+        "pageId": "/blog/the-best-things-to-do-on-a-budget-in-beijing",
+        "url": "https://www.smallerearth.com/hu/blog/the-best-things-to-do-on-a-budget-in-beijing"
+      },
+      {
+        "pageId": "/blog/the-top-7-china-travel-experiences-you-need-to-have",
+        "url": "https://www.smallerearth.com/hu/blog/the-top-7-china-travel-experiences-you-need-to-have"
+      },
+      {
+        "pageId": "/blog/the-ultimate-chinese-provinces-guide",
+        "url": "https://www.smallerearth.com/hu/blog/the-ultimate-chinese-provinces-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-new-zealand-working-holiday-guide",
+        "url": "https://www.smallerearth.com/hu/blog/the-ultimate-new-zealand-working-holiday-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-ontario-summer-bucket-list",
+        "url": "https://www.smallerearth.com/hu/blog/the-ultimate-ontario-summer-bucket-list"
+      },
+      {
+        "pageId": "/blog/what-is-mindful-travel-and-why-do-we-need-it",
+        "url": "https://www.smallerearth.com/hu/blog/what-is-mindful-travel-and-why-do-we-need-it"
+      },
+      {
+        "pageId": "/blog/where-to-travel-in-south-east-asia",
+        "url": "https://www.smallerearth.com/hu/blog/where-to-travel-in-south-east-asia"
+      },
+      {
+        "pageId": "/blog/why-embracing-change-is-essential-to-growth",
+        "url": "https://www.smallerearth.com/hu/blog/why-embracing-change-is-essential-to-growth"
+      },
+      {
+        "pageId": "/blog/why-summer-camp-was-the-best-career-decision-i-ever-made",
+        "url": "https://www.smallerearth.com/hu/blog/why-summer-camp-was-the-best-career-decision-i-ever-made"
+      },
+      {
+        "pageId": "/blog/why-travel-is-the-best-education-you-can-get",
+        "url": "https://www.smallerearth.com/hu/blog/why-travel-is-the-best-education-you-can-get"
+      },
+      {
+        "pageId": "/blog/why-working-at-summer-camp-is-perfect-for-students",
+        "url": "https://www.smallerearth.com/hu/blog/why-working-at-summer-camp-is-perfect-for-students"
+      },
+      {
+        "pageId": "/blog/your-guide-to-being-an-environmentally-aware-traveller",
+        "url": "https://www.smallerearth.com/hu/blog/your-guide-to-being-an-environmentally-aware-traveller"
+      },
+      {
+        "pageId": "/blog/your-guide-to-moving-to-another-country-alone",
+        "url": "https://www.smallerearth.com/hu/blog/your-guide-to-moving-to-another-country-alone"
+      },
+      {
+        "pageId": "/blog/your-guide-to-summer-camp-provinces-in-canada",
+        "url": "https://www.smallerearth.com/hu/blog/your-guide-to-summer-camp-provinces-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-best-national-parks-in-canada",
+        "url": "https://www.smallerearth.com/hu/blog/your-guide-to-the-best-national-parks-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-important-interview-questions-for-summer-camp",
+        "url": "https://www.smallerearth.com/hu/blog/your-guide-to-the-important-interview-questions-for-summer-camp"
+      },
+      {
+        "pageId": "/destinations/australia",
+        "url": "https://www.smallerearth.com/hu/destinations/australia"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-china",
+        "url": "https://www.smallerearth.com/hu/destinations/work-abroad-in-china"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/hu/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-canada",
+        "url": "https://www.smallerearth.com/hu/destinations/work-abroad-in-canada"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-japan",
+        "url": "https://www.smallerearth.com/hu/destinations/work-abroad-in-japan"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-new-zealand",
+        "url": "https://www.smallerearth.com/hu/destinations/work-abroad-in-new-zealand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-south-korea",
+        "url": "https://www.smallerearth.com/hu/destinations/work-abroad-in-south-korea"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/outdoor-jobs-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad/outdoor-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/sports-coaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad/sports-coaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/student-jobs-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad/student-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/hu/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/hu/programs/summer-camp-in-america"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/hu/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/resort-internships-in-america",
+        "url": "https://www.smallerearth.com/hu/programs/resort-internships-in-america"
+      },
+      {
+        "pageId": "/programs/summer-resort-jobs-in-america",
+        "url": "https://www.smallerearth.com/hu/programs/summer-resort-jobs-in-america"
+      },
+      {
+        "pageId": "/programs/resort-traineeship-in-america",
+        "url": "https://www.smallerearth.com/hu/programs/resort-traineeship-in-america"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/hu/programs/summer-camp-in-canada"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "PL",
+    "defaultLocale": "pl-PL",
+    "availableLocales": [
+      "pl-PL"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/pl/contact"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearth/?locale=en_GB",
+        "instagram": "https://instagram.com/smallerearth?igshid=OGQ5ZDc2ODk2ZA==",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@smallerearth178"
+      },
+      "url": "https://www.smallerearth.com/pl/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/pl"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/pl/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/pl/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/pl/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/pl/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/pl/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/pl/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/pl/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/pl/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/pl/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/pl/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/pl/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/pl/esims"
+      },
+      {
+        "pageId": "/blog/10-reasons-why-you-should-travel-the-world",
+        "url": "https://www.smallerearth.com/pl/blog/10-reasons-why-you-should-travel-the-world"
+      },
+      {
+        "pageId": "/blog/10-working-holiday-ideas-for-your-next-big-trip",
+        "url": "https://www.smallerearth.com/pl/blog/10-working-holiday-ideas-for-your-next-big-trip"
+      },
+      {
+        "pageId": "/blog/12-of-the-best-free-things-to-do-in-new-york",
+        "url": "https://www.smallerearth.com/pl/blog/11-of-the-best-free-things-to-do-in-new-york"
+      },
+      {
+        "pageId": "/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp",
+        "url": "https://www.smallerearth.com/pl/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp"
+      },
+      {
+        "pageId": "/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism",
+        "url": "https://www.smallerearth.com/pl/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism"
+      },
+      {
+        "pageId": "/blog/16-amazing-national-parks-in-the-us-you-have-to-visit",
+        "url": "https://www.smallerearth.com/pl/blog/16-amazing-national-parks-in-the-us-you-have-to-visit"
+      },
+      {
+        "pageId": "/blog/25-short-travel-quotes-to-inspire-your-wanderlust",
+        "url": "https://www.smallerearth.com/pl/blog/25-short-travel-quotes-to-inspire-your-wanderlust"
+      },
+      {
+        "pageId": "/blog/25-things-to-add-to-your-travel-bucket-list",
+        "url": "https://www.smallerearth.com/pl/blog/25-things-to-add-to-your-travel-bucket-list"
+      },
+      {
+        "pageId": "/blog/5-huge-myths-about-canada",
+        "url": "https://www.smallerearth.com/pl/blog/5-huge-myths-about-canada"
+      },
+      {
+        "pageId": "/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad",
+        "url": "https://www.smallerearth.com/pl/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad"
+      },
+      {
+        "pageId": "/blog/5-must-haves-to-travel-china-after-summer-camp",
+        "url": "https://www.smallerearth.com/pl/blog/5-must-haves-to-travel-china-after-summer-camp"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-budget-destinations-around-the-world",
+        "url": "https://www.smallerearth.com/pl/blog/5-of-the-best-budget-destinations-around-the-world"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-scenic-drives-in-canada",
+        "url": "https://www.smallerearth.com/pl/blog/5-of-the-best-scenic-drives-in-canada"
+      },
+      {
+        "pageId": "/blog/5-tips-for-staying-healthy-while-travelling",
+        "url": "https://www.smallerearth.com/pl/blog/5-tips-for-staying-healthy-while-travelling"
+      },
+      {
+        "pageId": "/blog/5-travel-fears-you-can-overcome-through-action",
+        "url": "https://www.smallerearth.com/pl/blog/5-travel-fears-you-can-overcome-through-action"
+      },
+      {
+        "pageId": "/blog/6-reasons-why-canada-is-perfect-for-solo-travellers",
+        "url": "https://www.smallerearth.com/pl/blog/6-reasons-why-canada-is-perfect-for-solo-travellers"
+      },
+      {
+        "pageId": "/blog/7-top-tips-for-solo-travel-in-new-york",
+        "url": "https://www.smallerearth.com/pl/blog/7-top-tips-for-solo-travel-in-new-york"
+      },
+      {
+        "pageId": "/blog/7-ways-to-beat-your-fear-of-travel",
+        "url": "https://www.smallerearth.com/pl/blog/7-ways-to-beat-your-fear-of-travel"
+      },
+      {
+        "pageId": "/blog/8-breathtaking-places-you-must-visit-in-new-zealand",
+        "url": "https://www.smallerearth.com/pl/blog/8-breathtaking-places-you-must-visit-in-new-zealand"
+      },
+      {
+        "pageId": "/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure",
+        "url": "https://www.smallerearth.com/pl/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure"
+      },
+      {
+        "pageId": "/blog/8-traditional-festivals-around-the-world-you-have-to-experience",
+        "url": "https://www.smallerearth.com/pl/blog/8-traditional-festivals-around-the-world-you-have-to-experience"
+      },
+      {
+        "pageId": "/blog/9-benefits-of-traveling-that-will-help-your-career",
+        "url": "https://www.smallerearth.com/pl/blog/9-benefits-of-traveling-that-will-help-your-career"
+      },
+      {
+        "pageId": "/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa",
+        "url": "https://www.smallerearth.com/pl/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa"
+      },
+      {
+        "pageId": "/blog/9-self-development-strategies-to-try-when-travelling",
+        "url": "https://www.smallerearth.com/pl/blog/9-self-development-strategies-to-try-when-travelling"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china",
+        "url": "https://www.smallerearth.com/pl/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-solo-travel",
+        "url": "https://www.smallerearth.com/pl/blog/a-beginners-guide-to-solo-travel"
+      },
+      {
+        "pageId": "/blog/goal-setting-in-2024-how-to-make-travel-a-priority",
+        "url": "https://www.smallerearth.com/pl/blog/goal-setting-in-2024-how-to-make-travel-a-priority"
+      },
+      {
+        "pageId": "/blog/going-green-6-destinations-for-the-sustainable-tourist",
+        "url": "https://www.smallerearth.com/pl/blog/going-green-6-destinations-for-the-sustainable-tourist"
+      },
+      {
+        "pageId": "/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world",
+        "url": "https://www.smallerearth.com/pl/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world"
+      },
+      {
+        "pageId": "/blog/how-studying-abroad-shapes-your-adult-identity",
+        "url": "https://www.smallerearth.com/pl/blog/how-studying-abroad-shapes-your-adult-identity"
+      },
+      {
+        "pageId": "/blog/how-to-create-a-sustainable-packing-list",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-create-a-sustainable-packing-list"
+      },
+      {
+        "pageId": "/blog/how-to-develop-your-sense-of-self-during-travel",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-develop-your-sense-of-self-during-travel"
+      },
+      {
+        "pageId": "/blog/how-to-land-your-dream-water-sports-summer-job-abroad",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-land-your-dream-water-sports-summer-job-abroad"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-auckland",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-48-hours-in-auckland"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-beijing",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-48-hours-in-beijing"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-nashville",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-48-hours-in-nashville"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-new-york-city",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-48-hours-in-new-york-city"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-san-francisco",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-48-hours-in-san-francisco"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-seattle",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-48-hours-in-seattle"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-toronto",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-48-hours-in-toronto"
+      },
+      {
+        "pageId": "/blog/how-to-spend-a-day-indoors-in-las-vegas",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-spend-a-day-indoors-in-las-vegas"
+      },
+      {
+        "pageId": "/blog/how-to-stretch-your-savings-and-travel-more-of-the-world",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-stretch-your-savings-and-travel-more-of-the-world"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-1",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-travel-the-world-on-a-budget-part-1"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-2",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-travel-the-world-on-a-budget-part-2"
+      },
+      {
+        "pageId": "/blog/how-to-travel-toronto-like-a-local-this-summer",
+        "url": "https://www.smallerearth.com/pl/blog/how-to-travel-toronto-like-a-local-this-summer"
+      },
+      {
+        "pageId": "/blog/incredible-chinese-train-journeys-that-you-have-to-try",
+        "url": "https://www.smallerearth.com/pl/blog/incredible-chinese-train-journeys-that-you-have-to-try"
+      },
+      {
+        "pageId": "/blog/interesting-facts-about-canada-that-will-blow-your-mind",
+        "url": "https://www.smallerearth.com/pl/blog/interesting-facts-about-canada-that-will-blow-your-mind"
+      },
+      {
+        "pageId": "/blog/new-year-new-journey",
+        "url": "https://www.smallerearth.com/pl/blog/new-year-new-journey"
+      },
+      {
+        "pageId": "/blog/our-pick-of-the-10-best-hikes-in-america-for-a-day-off",
+        "url": "https://www.smallerearth.com/pl/blog/our-pick-of-the-10-best-hikes-in-america-for-a-day-off"
+      },
+      {
+        "pageId": "/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers",
+        "url": "https://www.smallerearth.com/pl/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers"
+      },
+      {
+        "pageId": "/blog/the-14-most-adventurous-jobs-in-the-world",
+        "url": "https://www.smallerearth.com/pl/blog/the-14-most-adventurous-jobs-in-the-world"
+      },
+      {
+        "pageId": "/blog/the-best-things-to-do-on-a-budget-in-beijing",
+        "url": "https://www.smallerearth.com/pl/blog/the-best-things-to-do-on-a-budget-in-beijing"
+      },
+      {
+        "pageId": "/blog/the-top-7-china-travel-experiences-you-need-to-have",
+        "url": "https://www.smallerearth.com/pl/blog/the-top-7-china-travel-experiences-you-need-to-have"
+      },
+      {
+        "pageId": "/blog/the-ultimate-chinese-provinces-guide",
+        "url": "https://www.smallerearth.com/pl/blog/the-ultimate-chinese-provinces-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-new-zealand-working-holiday-guide",
+        "url": "https://www.smallerearth.com/pl/blog/the-ultimate-new-zealand-working-holiday-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-ontario-summer-bucket-list",
+        "url": "https://www.smallerearth.com/pl/blog/the-ultimate-ontario-summer-bucket-list"
+      },
+      {
+        "pageId": "/blog/what-is-mindful-travel-and-why-do-we-need-it",
+        "url": "https://www.smallerearth.com/pl/blog/what-is-mindful-travel-and-why-do-we-need-it"
+      },
+      {
+        "pageId": "/blog/what-is-summer-camp-your-guide-to-a-summer-of-a-lifetime",
+        "url": "https://www.smallerearth.com/pl/blog/what-is-summer-camp-your-guide-to-a-summer-of-a-lifetime"
+      },
+      {
+        "pageId": "/blog/what-to-pack-for-summer-camp-a-guide-to-your-summer-camp-essentials",
+        "url": "https://www.smallerearth.com/pl/blog/what-to-pack-for-summer-camp-a-guide-to-your-summer-camp-essentials"
+      },
+      {
+        "pageId": "/blog/where-to-travel-in-south-east-asia",
+        "url": "https://www.smallerearth.com/pl/blog/where-to-travel-in-south-east-asia"
+      },
+      {
+        "pageId": "/blog/why-embracing-change-is-essential-to-growth",
+        "url": "https://www.smallerearth.com/pl/blog/why-embracing-change-is-essential-to-growth"
+      },
+      {
+        "pageId": "/blog/why-is-travel-insurance-important-my-5-reasons-to-get-this-travel-essential",
+        "url": "https://www.smallerearth.com/pl/blog/why-is-travel-insurance-important-my-5-reasons-to-get-this-travel-essential"
+      },
+      {
+        "pageId": "/blog/why-summer-camp-was-the-best-career-decision-i-ever-made",
+        "url": "https://www.smallerearth.com/pl/blog/why-summer-camp-was-the-best-career-decision-i-ever-made"
+      },
+      {
+        "pageId": "/blog/why-travel-is-the-best-education-you-can-get",
+        "url": "https://www.smallerearth.com/pl/blog/why-travel-is-the-best-education-you-can-get"
+      },
+      {
+        "pageId": "/blog/why-working-at-summer-camp-is-perfect-for-students",
+        "url": "https://www.smallerearth.com/pl/blog/why-working-at-summer-camp-is-perfect-for-students"
+      },
+      {
+        "pageId": "/blog/your-guide-to-being-an-environmentally-aware-traveller",
+        "url": "https://www.smallerearth.com/pl/blog/your-guide-to-being-an-environmentally-aware-traveller"
+      },
+      {
+        "pageId": "/blog/your-guide-to-moving-to-another-country-alone",
+        "url": "https://www.smallerearth.com/pl/blog/your-guide-to-moving-to-another-country-alone"
+      },
+      {
+        "pageId": "/blog/your-guide-to-summer-camp-provinces-in-canada",
+        "url": "https://www.smallerearth.com/pl/blog/your-guide-to-summer-camp-provinces-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-best-national-parks-in-canada",
+        "url": "https://www.smallerearth.com/pl/blog/your-guide-to-the-best-national-parks-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-important-interview-questions-for-summer-camp",
+        "url": "https://www.smallerearth.com/pl/blog/your-guide-to-the-important-interview-questions-for-summer-camp"
+      },
+      {
+        "pageId": "/destinations/australia",
+        "url": "https://www.smallerearth.com/pl/destinations/australia"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-china",
+        "url": "https://www.smallerearth.com/pl/destinations/work-abroad-in-china"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/pl/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-canada",
+        "url": "https://www.smallerearth.com/pl/destinations/work-abroad-in-canada"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-japan",
+        "url": "https://www.smallerearth.com/pl/destinations/work-abroad-in-japan"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-new-zealand",
+        "url": "https://www.smallerearth.com/pl/destinations/work-abroad-in-new-zealand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-south-korea",
+        "url": "https://www.smallerearth.com/pl/destinations/work-abroad-in-south-korea"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/outdoor-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/outdoor-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/sports-coaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/sports-coaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/student-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/student-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/teaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/teaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/volunteer-abroad",
+        "url": "https://www.smallerearth.com/pl/work-abroad/volunteer-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/pl/programs/summer-camp-in-america"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/pl/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/lifeguard",
+        "url": "https://www.smallerearth.com/pl/programs/lifeguard"
+      },
+      {
+        "pageId": "/programs/resort-internships-in-america",
+        "url": "https://www.smallerearth.com/pl/programs/resort-internships-in-america"
+      },
+      {
+        "pageId": "/programs/summer-resort-jobs-in-america",
+        "url": "https://www.smallerearth.com/pl/programs/summer-resort-jobs-in-america"
+      },
+      {
+        "pageId": "/programs/resort-traineeship-in-america",
+        "url": "https://www.smallerearth.com/pl/programs/resort-traineeship-in-america"
+      },
+      {
+        "pageId": "/programs/special-needs-counselor",
+        "url": "https://www.smallerearth.com/pl/programs/special-needs-counselor"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/pl/programs/summer-camp-in-canada"
+      },
+      {
+        "pageId": "/programs/winter-resort-jobs-in-america",
+        "url": "https://www.smallerearth.com/pl/programs/winter-resort-jobs-in-america"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "IE",
+    "defaultLocale": "en-IE",
+    "availableLocales": [
+      "en-IE"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/ie/contact"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearth/?locale=en_GB",
+        "instagram": "https://instagram.com/smallerearth?igshid=OGQ5ZDc2ODk2ZA==",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@smallerearth178"
+      },
+      "url": "https://www.smallerearth.com/ie/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/ie"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/ie/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/ie/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/ie/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/ie/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/ie/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/ie/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/ie/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/ie/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/ie/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/ie/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/ie/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/ie/esims"
+      },
+      {
+        "pageId": "/blog/10-reasons-why-you-should-travel-the-world",
+        "url": "https://www.smallerearth.com/ie/blog/10-reasons-why-you-should-travel-the-world"
+      },
+      {
+        "pageId": "/blog/12-of-the-best-free-things-to-do-in-new-york",
+        "url": "https://www.smallerearth.com/ie/blog/11-of-the-best-free-things-to-do-in-new-york"
+      },
+      {
+        "pageId": "/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp",
+        "url": "https://www.smallerearth.com/ie/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp"
+      },
+      {
+        "pageId": "/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism",
+        "url": "https://www.smallerearth.com/ie/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism"
+      },
+      {
+        "pageId": "/blog/16-amazing-national-parks-in-the-us-you-have-to-visit",
+        "url": "https://www.smallerearth.com/ie/blog/16-amazing-national-parks-in-the-us-you-have-to-visit"
+      },
+      {
+        "pageId": "/blog/25-short-travel-quotes-to-inspire-your-wanderlust",
+        "url": "https://www.smallerearth.com/ie/blog/25-short-travel-quotes-to-inspire-your-wanderlust"
+      },
+      {
+        "pageId": "/blog/25-things-to-add-to-your-travel-bucket-list",
+        "url": "https://www.smallerearth.com/ie/blog/25-things-to-add-to-your-travel-bucket-list"
+      },
+      {
+        "pageId": "/blog/5-huge-myths-about-canada",
+        "url": "https://www.smallerearth.com/ie/blog/5-huge-myths-about-canada"
+      },
+      {
+        "pageId": "/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad",
+        "url": "https://www.smallerearth.com/ie/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad"
+      },
+      {
+        "pageId": "/blog/5-must-haves-to-travel-china-after-summer-camp",
+        "url": "https://www.smallerearth.com/ie/blog/5-must-haves-to-travel-china-after-summer-camp"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-budget-destinations-around-the-world",
+        "url": "https://www.smallerearth.com/ie/blog/5-of-the-best-budget-destinations-around-the-world"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-scenic-drives-in-canada",
+        "url": "https://www.smallerearth.com/ie/blog/5-of-the-best-scenic-drives-in-canada"
+      },
+      {
+        "pageId": "/blog/5-tips-for-staying-healthy-while-travelling",
+        "url": "https://www.smallerearth.com/ie/blog/5-tips-for-staying-healthy-while-travelling"
+      },
+      {
+        "pageId": "/blog/5-travel-fears-you-can-overcome-through-action",
+        "url": "https://www.smallerearth.com/ie/blog/5-travel-fears-you-can-overcome-through-action"
+      },
+      {
+        "pageId": "/blog/6-reasons-why-canada-is-perfect-for-solo-travellers",
+        "url": "https://www.smallerearth.com/ie/blog/6-reasons-why-canada-is-perfect-for-solo-travellers"
+      },
+      {
+        "pageId": "/blog/7-top-tips-for-solo-travel-in-new-york",
+        "url": "https://www.smallerearth.com/ie/blog/7-top-tips-for-solo-travel-in-new-york"
+      },
+      {
+        "pageId": "/blog/7-ways-to-beat-your-fear-of-travel",
+        "url": "https://www.smallerearth.com/ie/blog/7-ways-to-beat-your-fear-of-travel"
+      },
+      {
+        "pageId": "/blog/8-breathtaking-places-you-must-visit-in-new-zealand",
+        "url": "https://www.smallerearth.com/ie/blog/8-breathtaking-places-you-must-visit-in-new-zealand"
+      },
+      {
+        "pageId": "/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure",
+        "url": "https://www.smallerearth.com/ie/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure"
+      },
+      {
+        "pageId": "/blog/8-traditional-festivals-around-the-world-you-have-to-experience",
+        "url": "https://www.smallerearth.com/ie/blog/8-traditional-festivals-around-the-world-you-have-to-experience"
+      },
+      {
+        "pageId": "/blog/9-benefits-of-traveling-that-will-help-your-career",
+        "url": "https://www.smallerearth.com/ie/blog/9-benefits-of-traveling-that-will-help-your-career"
+      },
+      {
+        "pageId": "/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa",
+        "url": "https://www.smallerearth.com/ie/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa"
+      },
+      {
+        "pageId": "/blog/9-self-development-strategies-to-try-when-travelling",
+        "url": "https://www.smallerearth.com/ie/blog/9-self-development-strategies-to-try-when-travelling"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china",
+        "url": "https://www.smallerearth.com/ie/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-solo-travel",
+        "url": "https://www.smallerearth.com/ie/blog/a-beginners-guide-to-solo-travel"
+      },
+      {
+        "pageId": "/blog/goal-setting-in-2024-how-to-make-travel-a-priority",
+        "url": "https://www.smallerearth.com/ie/blog/goal-setting-in-2024-how-to-make-travel-a-priority"
+      },
+      {
+        "pageId": "/blog/going-green-6-destinations-for-the-sustainable-tourist",
+        "url": "https://www.smallerearth.com/ie/blog/going-green-6-destinations-for-the-sustainable-tourist"
+      },
+      {
+        "pageId": "/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world",
+        "url": "https://www.smallerearth.com/ie/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world"
+      },
+      {
+        "pageId": "/blog/how-studying-abroad-shapes-your-adult-identity",
+        "url": "https://www.smallerearth.com/ie/blog/how-studying-abroad-shapes-your-adult-identity"
+      },
+      {
+        "pageId": "/blog/how-to-create-a-sustainable-packing-list",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-create-a-sustainable-packing-list"
+      },
+      {
+        "pageId": "/blog/how-to-develop-your-sense-of-self-during-travel",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-develop-your-sense-of-self-during-travel"
+      },
+      {
+        "pageId": "/blog/how-to-land-your-dream-water-sports-summer-job-abroad",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-land-your-dream-water-sports-summer-job-abroad"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-auckland",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-48-hours-in-auckland"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-beijing",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-48-hours-in-beijing"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-nashville",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-48-hours-in-nashville"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-new-york-city",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-48-hours-in-new-york-city"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-san-francisco",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-48-hours-in-san-francisco"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-seattle",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-48-hours-in-seattle"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-toronto",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-48-hours-in-toronto"
+      },
+      {
+        "pageId": "/blog/how-to-spend-a-day-indoors-in-las-vegas",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-spend-a-day-indoors-in-las-vegas"
+      },
+      {
+        "pageId": "/blog/how-to-stretch-your-savings-and-travel-more-of-the-world",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-stretch-your-savings-and-travel-more-of-the-world"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-1",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-travel-the-world-on-a-budget-part-1"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-2",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-travel-the-world-on-a-budget-part-2"
+      },
+      {
+        "pageId": "/blog/how-to-travel-toronto-like-a-local-this-summer",
+        "url": "https://www.smallerearth.com/ie/blog/how-to-travel-toronto-like-a-local-this-summer"
+      },
+      {
+        "pageId": "/blog/incredible-chinese-train-journeys-that-you-have-to-try",
+        "url": "https://www.smallerearth.com/ie/blog/incredible-chinese-train-journeys-that-you-have-to-try"
+      },
+      {
+        "pageId": "/blog/interesting-facts-about-canada-that-will-blow-your-mind",
+        "url": "https://www.smallerearth.com/ie/blog/interesting-facts-about-canada-that-will-blow-your-mind"
+      },
+      {
+        "pageId": "/blog/new-year-new-journey",
+        "url": "https://www.smallerearth.com/ie/blog/new-year-new-journey"
+      },
+      {
+        "pageId": "/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers",
+        "url": "https://www.smallerearth.com/ie/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers"
+      },
+      {
+        "pageId": "/blog/the-14-most-adventurous-jobs-in-the-world",
+        "url": "https://www.smallerearth.com/ie/blog/the-14-most-adventurous-jobs-in-the-world"
+      },
+      {
+        "pageId": "/blog/the-best-things-to-do-on-a-budget-in-beijing",
+        "url": "https://www.smallerearth.com/ie/blog/the-best-things-to-do-on-a-budget-in-beijing"
+      },
+      {
+        "pageId": "/blog/the-top-7-china-travel-experiences-you-need-to-have",
+        "url": "https://www.smallerearth.com/ie/blog/the-top-7-china-travel-experiences-you-need-to-have"
+      },
+      {
+        "pageId": "/blog/the-ultimate-chinese-provinces-guide",
+        "url": "https://www.smallerearth.com/ie/blog/the-ultimate-chinese-provinces-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-new-zealand-working-holiday-guide",
+        "url": "https://www.smallerearth.com/ie/blog/the-ultimate-new-zealand-working-holiday-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-ontario-summer-bucket-list",
+        "url": "https://www.smallerearth.com/ie/blog/the-ultimate-ontario-summer-bucket-list"
+      },
+      {
+        "pageId": "/blog/what-is-mindful-travel-and-why-do-we-need-it",
+        "url": "https://www.smallerearth.com/ie/blog/what-is-mindful-travel-and-why-do-we-need-it"
+      },
+      {
+        "pageId": "/blog/where-to-travel-in-south-east-asia",
+        "url": "https://www.smallerearth.com/ie/blog/where-to-travel-in-south-east-asia"
+      },
+      {
+        "pageId": "/blog/why-embracing-change-is-essential-to-growth",
+        "url": "https://www.smallerearth.com/ie/blog/why-embracing-change-is-essential-to-growth"
+      },
+      {
+        "pageId": "/blog/why-summer-camp-was-the-best-career-decision-i-ever-made",
+        "url": "https://www.smallerearth.com/ie/blog/why-summer-camp-was-the-best-career-decision-i-ever-made"
+      },
+      {
+        "pageId": "/blog/why-travel-is-the-best-education-you-can-get",
+        "url": "https://www.smallerearth.com/ie/blog/why-travel-is-the-best-education-you-can-get"
+      },
+      {
+        "pageId": "/blog/why-working-at-summer-camp-is-perfect-for-students",
+        "url": "https://www.smallerearth.com/ie/blog/why-working-at-summer-camp-is-perfect-for-students"
+      },
+      {
+        "pageId": "/blog/your-guide-to-being-an-environmentally-aware-traveller",
+        "url": "https://www.smallerearth.com/ie/blog/your-guide-to-being-an-environmentally-aware-traveller"
+      },
+      {
+        "pageId": "/blog/your-guide-to-moving-to-another-country-alone",
+        "url": "https://www.smallerearth.com/ie/blog/your-guide-to-moving-to-another-country-alone"
+      },
+      {
+        "pageId": "/blog/your-guide-to-summer-camp-provinces-in-canada",
+        "url": "https://www.smallerearth.com/ie/blog/your-guide-to-summer-camp-provinces-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-best-national-parks-in-canada",
+        "url": "https://www.smallerearth.com/ie/blog/your-guide-to-the-best-national-parks-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-important-interview-questions-for-summer-camp",
+        "url": "https://www.smallerearth.com/ie/blog/your-guide-to-the-important-interview-questions-for-summer-camp"
+      },
+      {
+        "pageId": "/destinations/australia",
+        "url": "https://www.smallerearth.com/ie/destinations/australia"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-china",
+        "url": "https://www.smallerearth.com/ie/destinations/work-abroad-in-china"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/ie/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-canada",
+        "url": "https://www.smallerearth.com/ie/destinations/work-abroad-in-canada"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-japan",
+        "url": "https://www.smallerearth.com/ie/destinations/work-abroad-in-japan"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-new-zealand",
+        "url": "https://www.smallerearth.com/ie/destinations/work-abroad-in-new-zealand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-south-korea",
+        "url": "https://www.smallerearth.com/ie/destinations/work-abroad-in-south-korea"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/outdoor-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/outdoor-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/sports-coaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/sports-coaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/student-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/student-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/teaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/teaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/volunteer-abroad",
+        "url": "https://www.smallerearth.com/ie/work-abroad/volunteer-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/ie/programs/summer-camp-in-america"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/ie/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/ie/programs/summer-camp-in-canada"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-china",
+        "url": "https://www.smallerearth.com/ie/programs/summer-camp-in-china"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "MX",
+    "defaultLocale": "es-MX",
+    "availableLocales": [
+      "es-MX"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/mx/contact"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearth/?locale=en_GB",
+        "instagram": "https://instagram.com/smallerearth?igshid=OGQ5ZDc2ODk2ZA==",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@smallerearth178"
+      },
+      "url": "https://www.smallerearth.com/mx/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/mx"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/mx/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/mx/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/mx/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/mx/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/mx/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/mx/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/mx/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/mx/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/mx/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/mx/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/mx/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/mx/esims"
+      },
+      {
+        "pageId": "/blog/10-reasons-why-you-should-travel-the-world",
+        "url": "https://www.smallerearth.com/mx/blog/10-reasons-why-you-should-travel-the-world"
+      },
+      {
+        "pageId": "/blog/12-of-the-best-free-things-to-do-in-new-york",
+        "url": "https://www.smallerearth.com/mx/blog/12-of-the-best-free-things-to-do-in-new-york"
+      },
+      {
+        "pageId": "/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp",
+        "url": "https://www.smallerearth.com/mx/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp"
+      },
+      {
+        "pageId": "/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism",
+        "url": "https://www.smallerearth.com/mx/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism"
+      },
+      {
+        "pageId": "/blog/16-amazing-national-parks-in-the-us-you-have-to-visit",
+        "url": "https://www.smallerearth.com/mx/blog/16-amazing-national-parks-in-the-us-you-have-to-visit"
+      },
+      {
+        "pageId": "/blog/25-short-travel-quotes-to-inspire-your-wanderlust",
+        "url": "https://www.smallerearth.com/mx/blog/25-short-travel-quotes-to-inspire-your-wanderlust"
+      },
+      {
+        "pageId": "/blog/25-things-to-add-to-your-travel-bucket-list",
+        "url": "https://www.smallerearth.com/mx/blog/25-things-to-add-to-your-travel-bucket-list"
+      },
+      {
+        "pageId": "/blog/5-huge-myths-about-canada",
+        "url": "https://www.smallerearth.com/mx/blog/5-huge-myths-about-canada"
+      },
+      {
+        "pageId": "/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad",
+        "url": "https://www.smallerearth.com/mx/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad"
+      },
+      {
+        "pageId": "/blog/5-must-haves-to-travel-china-after-summer-camp",
+        "url": "https://www.smallerearth.com/mx/blog/5-must-haves-to-travel-china-after-summer-camp"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-budget-destinations-around-the-world",
+        "url": "https://www.smallerearth.com/mx/blog/5-of-the-best-budget-destinations-around-the-world"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-scenic-drives-in-canada",
+        "url": "https://www.smallerearth.com/mx/blog/5-of-the-best-scenic-drives-in-canada"
+      },
+      {
+        "pageId": "/blog/5-tips-for-staying-healthy-while-travelling",
+        "url": "https://www.smallerearth.com/mx/blog/5-tips-for-staying-healthy-while-travelling"
+      },
+      {
+        "pageId": "/blog/5-travel-fears-you-can-overcome-through-action",
+        "url": "https://www.smallerearth.com/mx/blog/5-travel-fears-you-can-overcome-through-action"
+      },
+      {
+        "pageId": "/blog/6-reasons-why-canada-is-perfect-for-solo-travellers",
+        "url": "https://www.smallerearth.com/mx/blog/6-reasons-why-canada-is-perfect-for-solo-travellers"
+      },
+      {
+        "pageId": "/blog/7-top-tips-for-solo-travel-in-new-york",
+        "url": "https://www.smallerearth.com/mx/blog/7-top-tips-for-solo-travel-in-new-york"
+      },
+      {
+        "pageId": "/blog/7-ways-to-beat-your-fear-of-travel",
+        "url": "https://www.smallerearth.com/mx/blog/7-ways-to-beat-your-fear-of-travel"
+      },
+      {
+        "pageId": "/blog/8-breathtaking-places-you-must-visit-in-new-zealand",
+        "url": "https://www.smallerearth.com/mx/blog/8-breathtaking-places-you-must-visit-in-new-zealand"
+      },
+      {
+        "pageId": "/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure",
+        "url": "https://www.smallerearth.com/mx/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure"
+      },
+      {
+        "pageId": "/blog/8-traditional-festivals-around-the-world-you-have-to-experience",
+        "url": "https://www.smallerearth.com/mx/blog/8-traditional-festivals-around-the-world-you-have-to-experience"
+      },
+      {
+        "pageId": "/blog/9-benefits-of-traveling-that-will-help-your-career",
+        "url": "https://www.smallerearth.com/mx/blog/9-benefits-of-traveling-that-will-help-your-career"
+      },
+      {
+        "pageId": "/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa",
+        "url": "https://www.smallerearth.com/mx/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa"
+      },
+      {
+        "pageId": "/blog/9-self-development-strategies-to-try-when-travelling",
+        "url": "https://www.smallerearth.com/mx/blog/9-self-development-strategies-to-try-when-travelling"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china",
+        "url": "https://www.smallerearth.com/mx/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-solo-travel",
+        "url": "https://www.smallerearth.com/mx/blog/a-beginners-guide-to-solo-travel"
+      },
+      {
+        "pageId": "/blog/goal-setting-in-2024-how-to-make-travel-a-priority",
+        "url": "https://www.smallerearth.com/mx/blog/goal-setting-in-2024-how-to-make-travel-a-priority"
+      },
+      {
+        "pageId": "/blog/going-green-6-destinations-for-the-sustainable-tourist",
+        "url": "https://www.smallerearth.com/mx/blog/going-green-6-destinations-for-the-sustainable-tourist"
+      },
+      {
+        "pageId": "/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world",
+        "url": "https://www.smallerearth.com/mx/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world"
+      },
+      {
+        "pageId": "/blog/how-studying-abroad-shapes-your-adult-identity",
+        "url": "https://www.smallerearth.com/mx/blog/how-studying-abroad-shapes-your-adult-identity"
+      },
+      {
+        "pageId": "/blog/how-to-create-a-sustainable-packing-list",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-create-a-sustainable-packing-list"
+      },
+      {
+        "pageId": "/blog/how-to-develop-your-sense-of-self-during-travel",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-develop-your-sense-of-self-during-travel"
+      },
+      {
+        "pageId": "/blog/how-to-land-your-dream-water-sports-summer-job-abroad",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-land-your-dream-water-sports-summer-job-abroad"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-auckland",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-48-hours-in-auckland"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-beijing",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-48-hours-in-beijing"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-nashville",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-48-hours-in-nashville"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-new-york-city",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-48-hours-in-new-york-city"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-san-francisco",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-48-hours-in-san-francisco"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-seattle",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-48-hours-in-seattle"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-toronto",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-48-hours-in-toronto"
+      },
+      {
+        "pageId": "/blog/how-to-spend-a-day-indoors-in-las-vegas",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-spend-a-day-indoors-in-las-vegas"
+      },
+      {
+        "pageId": "/blog/how-to-stretch-your-savings-and-travel-more-of-the-world",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-stretch-your-savings-and-travel-more-of-the-world"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-1",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-travel-the-world-on-a-budget-part-1"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-2",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-travel-the-world-on-a-budget-part-2"
+      },
+      {
+        "pageId": "/blog/how-to-travel-toronto-like-a-local-this-summer",
+        "url": "https://www.smallerearth.com/mx/blog/how-to-travel-toronto-like-a-local-this-summer"
+      },
+      {
+        "pageId": "/blog/incredible-chinese-train-journeys-that-you-have-to-try",
+        "url": "https://www.smallerearth.com/mx/blog/incredible-chinese-train-journeys-that-you-have-to-try"
+      },
+      {
+        "pageId": "/blog/interesting-facts-about-canada-that-will-blow-your-mind",
+        "url": "https://www.smallerearth.com/mx/blog/interesting-facts-about-canada-that-will-blow-your-mind"
+      },
+      {
+        "pageId": "/blog/new-year-new-journey",
+        "url": "https://www.smallerearth.com/mx/blog/new-year-new-journey"
+      },
+      {
+        "pageId": "/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers",
+        "url": "https://www.smallerearth.com/mx/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers"
+      },
+      {
+        "pageId": "/blog/the-14-most-adventurous-jobs-in-the-world",
+        "url": "https://www.smallerearth.com/mx/blog/the-14-most-adventurous-jobs-in-the-world"
+      },
+      {
+        "pageId": "/blog/the-best-things-to-do-on-a-budget-in-beijing",
+        "url": "https://www.smallerearth.com/mx/blog/the-best-things-to-do-on-a-budget-in-beijing"
+      },
+      {
+        "pageId": "/blog/the-top-7-china-travel-experiences-you-need-to-have",
+        "url": "https://www.smallerearth.com/mx/blog/the-top-7-china-travel-experiences-you-need-to-have"
+      },
+      {
+        "pageId": "/blog/the-ultimate-chinese-provinces-guide",
+        "url": "https://www.smallerearth.com/mx/blog/the-ultimate-chinese-provinces-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-new-zealand-working-holiday-guide",
+        "url": "https://www.smallerearth.com/mx/blog/the-ultimate-new-zealand-working-holiday-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-ontario-summer-bucket-list",
+        "url": "https://www.smallerearth.com/mx/blog/the-ultimate-ontario-summer-bucket-list"
+      },
+      {
+        "pageId": "/blog/what-is-mindful-travel-and-why-do-we-need-it",
+        "url": "https://www.smallerearth.com/mx/blog/what-is-mindful-travel-and-why-do-we-need-it"
+      },
+      {
+        "pageId": "/blog/where-to-travel-in-south-east-asia",
+        "url": "https://www.smallerearth.com/mx/blog/where-to-travel-in-south-east-asia"
+      },
+      {
+        "pageId": "/blog/why-embracing-change-is-essential-to-growth",
+        "url": "https://www.smallerearth.com/mx/blog/why-embracing-change-is-essential-to-growth"
+      },
+      {
+        "pageId": "/blog/why-summer-camp-was-the-best-career-decision-i-ever-made",
+        "url": "https://www.smallerearth.com/mx/blog/why-summer-camp-was-the-best-career-decision-i-ever-made"
+      },
+      {
+        "pageId": "/blog/why-travel-is-the-best-education-you-can-get",
+        "url": "https://www.smallerearth.com/mx/blog/why-travel-is-the-best-education-you-can-get"
+      },
+      {
+        "pageId": "/blog/why-working-at-summer-camp-is-perfect-for-students",
+        "url": "https://www.smallerearth.com/mx/blog/why-working-at-summer-camp-is-perfect-for-students"
+      },
+      {
+        "pageId": "/blog/your-guide-to-being-an-environmentally-aware-traveller",
+        "url": "https://www.smallerearth.com/mx/blog/your-guide-to-being-an-environmentally-aware-traveller"
+      },
+      {
+        "pageId": "/blog/your-guide-to-moving-to-another-country-alone",
+        "url": "https://www.smallerearth.com/mx/blog/your-guide-to-moving-to-another-country-alone"
+      },
+      {
+        "pageId": "/blog/your-guide-to-summer-camp-provinces-in-canada",
+        "url": "https://www.smallerearth.com/mx/blog/your-guide-to-summer-camp-provinces-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-best-national-parks-in-canada",
+        "url": "https://www.smallerearth.com/mx/blog/your-guide-to-the-best-national-parks-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-important-interview-questions-for-summer-camp",
+        "url": "https://www.smallerearth.com/mx/blog/your-guide-to-the-important-interview-questions-for-summer-camp"
+      },
+      {
+        "pageId": "/destinations/australia",
+        "url": "https://www.smallerearth.com/mx/destinations/australia"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-china",
+        "url": "https://www.smallerearth.com/mx/destinations/work-abroad-in-china"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/mx/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-canada",
+        "url": "https://www.smallerearth.com/mx/destinations/work-abroad-in-canada"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-japan",
+        "url": "https://www.smallerearth.com/mx/destinations/work-abroad-in-japan"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-new-zealand",
+        "url": "https://www.smallerearth.com/mx/destinations/work-abroad-in-new-zealand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-south-korea",
+        "url": "https://www.smallerearth.com/mx/destinations/work-abroad-in-south-korea"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/outdoor-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/outdoor-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/sports-coaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/sports-coaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/student-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/student-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/teaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/teaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/volunteer-abroad",
+        "url": "https://www.smallerearth.com/mx/work-abroad/volunteer-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/mx/programs/summer-camp-in-america"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/mx/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/resort-internships-in-america",
+        "url": "https://www.smallerearth.com/mx/programs/resort-internships-in-america"
+      },
+      {
+        "pageId": "/programs/summer-resort-jobs-in-america",
+        "url": "https://www.smallerearth.com/mx/programs/summer-resort-jobs-in-america"
+      },
+      {
+        "pageId": "/programs/resort-traineeship-in-america",
+        "url": "https://www.smallerearth.com/mx/programs/resort-traineeship-in-america"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/mx/programs/summer-camp-in-canada"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "SK",
+    "defaultLocale": "sk-SK",
+    "availableLocales": [
+      "sk-SK"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/sk/contact",
+        "telephone": "00421907851282",
+        "email": "slovakia@smallerearth.com"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearthsk",
+        "instagram": "https://www.instagram.com/smallerearthsk/",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@CampleadersSlovakia/"
+      },
+      "url": "https://www.smallerearth.com/sk/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/sk"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/sk/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/sk/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/sk/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/sk/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/sk/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/sk/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/sk/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/sk/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/sk/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/sk/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/sk/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/sk/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/sk/esims"
+      },
+      {
+        "pageId": "/lp/work-and-travel-usa",
+        "url": "https://www.smallerearth.com/sk/lp/work-and-travel-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/sk/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/sk/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/sk/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/sk/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/sk/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/sk/programs/camp-leaders"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/sk/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/resort-internships-in-america",
+        "url": "https://www.smallerearth.com/sk/programs/resort-internships-in-america"
+      },
+      {
+        "pageId": "/programs/summer-resort-jobs-in-america",
+        "url": "https://www.smallerearth.com/sk/programs/summer-resort-jobs-in-america"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/sk/programs/summer-camp-in-canada"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  },
+  {
+    "countryCode": "BR",
+    "defaultLocale": "pt-BR",
+    "availableLocales": [
+      "pt-BR"
+    ],
+    "organization": {
+      "contact": {
+        "contactPageUrl": "https://www.smallerearth.com/br/contact"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/smallerearth/?locale=en_GB",
+        "instagram": "https://instagram.com/smallerearth?igshid=OGQ5ZDc2ODk2ZA==",
+        "x": "https://x.com/smallerearth?s=21&t=w_krm_AYbPaeo_2eW9796w",
+        "youtube": "https://www.youtube.com/@smallerearth178"
+      },
+      "url": "https://www.smallerearth.com/br/"
+    },
+    "pages": [
+      {
+        "pageId": "/",
+        "url": "https://www.smallerearth.com/br"
+      },
+      {
+        "pageId": "/creators",
+        "url": "https://www.smallerearth.com/br/creators"
+      },
+      {
+        "pageId": "/careers-and-opportunities",
+        "url": "https://www.smallerearth.com/br/careers-and-opportunities"
+      },
+      {
+        "pageId": "/about",
+        "url": "https://www.smallerearth.com/br/about"
+      },
+      {
+        "pageId": "/work-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad"
+      },
+      {
+        "pageId": "/blog",
+        "url": "https://www.smallerearth.com/br/blog"
+      },
+      {
+        "pageId": "/teachers-educators",
+        "url": "https://www.smallerearth.com/br/teachers-educators"
+      },
+      {
+        "pageId": "/cookie-policy",
+        "url": "https://www.smallerearth.com/br/cookie-policy"
+      },
+      {
+        "pageId": "/terms-of-service",
+        "url": "https://www.smallerearth.com/br/terms-of-service"
+      },
+      {
+        "pageId": "/privacy-policy",
+        "url": "https://www.smallerearth.com/br/privacy-policy"
+      },
+      {
+        "pageId": "/search",
+        "url": "https://www.smallerearth.com/br/search"
+      },
+      {
+        "pageId": "/contact",
+        "url": "https://www.smallerearth.com/br/contact"
+      },
+      {
+        "pageId": "/travel-insurance",
+        "url": "https://www.smallerearth.com/br/travel-insurance"
+      },
+      {
+        "pageId": "/esims",
+        "url": "https://www.smallerearth.com/br/esims"
+      },
+      {
+        "pageId": "/blog/10-reasons-why-you-should-travel-the-world",
+        "url": "https://www.smallerearth.com/br/blog/10-reasons-why-you-should-travel-the-world"
+      },
+      {
+        "pageId": "/blog/10-working-holiday-ideas-for-your-next-big-trip",
+        "url": "https://www.smallerearth.com/br/blog/10-working-holiday-ideas-for-your-next-big-trip"
+      },
+      {
+        "pageId": "/blog/12-of-the-best-free-things-to-do-in-new-york",
+        "url": "https://www.smallerearth.com/br/blog/12-of-the-best-free-things-to-do-in-new-york"
+      },
+      {
+        "pageId": "/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp",
+        "url": "https://www.smallerearth.com/br/blog/12-chinese-supermarket-snacks-to-keep-you-energised-at-camp"
+      },
+      {
+        "pageId": "/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism",
+        "url": "https://www.smallerearth.com/br/blog/13-outdoor-qualifications-that-can-secure-you-a-job-in-travel-and-tourism"
+      },
+      {
+        "pageId": "/blog/16-amazing-national-parks-in-the-us-you-have-to-visit",
+        "url": "https://www.smallerearth.com/br/blog/16-amazing-national-parks-in-the-us-you-have-to-visit"
+      },
+      {
+        "pageId": "/blog/25-short-travel-quotes-to-inspire-your-wanderlust",
+        "url": "https://www.smallerearth.com/br/blog/25-short-travel-quotes-to-inspire-your-wanderlust"
+      },
+      {
+        "pageId": "/blog/25-things-to-add-to-your-travel-bucket-list",
+        "url": "https://www.smallerearth.com/br/blog/25-things-to-add-to-your-travel-bucket-list"
+      },
+      {
+        "pageId": "/blog/5-huge-myths-about-canada",
+        "url": "https://www.smallerearth.com/br/blog/5-huge-myths-about-canada"
+      },
+      {
+        "pageId": "/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad",
+        "url": "https://www.smallerearth.com/br/blog/5-important-skills-you-need-to-secure-a-lifeguard-job-abroad"
+      },
+      {
+        "pageId": "/blog/5-must-haves-to-travel-china-after-summer-camp",
+        "url": "https://www.smallerearth.com/br/blog/5-must-haves-to-travel-china-after-summer-camp"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-budget-destinations-around-the-world",
+        "url": "https://www.smallerearth.com/br/blog/5-of-the-best-budget-destinations-around-the-world"
+      },
+      {
+        "pageId": "/blog/5-of-the-best-scenic-drives-in-canada",
+        "url": "https://www.smallerearth.com/br/blog/5-of-the-best-scenic-drives-in-canada"
+      },
+      {
+        "pageId": "/blog/5-tips-for-staying-healthy-while-travelling",
+        "url": "https://www.smallerearth.com/br/blog/5-tips-for-staying-healthy-while-travelling"
+      },
+      {
+        "pageId": "/blog/5-travel-fears-you-can-overcome-through-action",
+        "url": "https://www.smallerearth.com/br/blog/5-travel-fears-you-can-overcome-through-action"
+      },
+      {
+        "pageId": "/blog/6-reasons-why-canada-is-perfect-for-solo-travellers",
+        "url": "https://www.smallerearth.com/br/blog/6-reasons-why-canada-is-perfect-for-solo-travellers"
+      },
+      {
+        "pageId": "/blog/7-top-tips-for-solo-travel-in-new-york",
+        "url": "https://www.smallerearth.com/br/blog/7-top-tips-for-solo-travel-in-new-york"
+      },
+      {
+        "pageId": "/blog/7-ways-to-beat-your-fear-of-travel",
+        "url": "https://www.smallerearth.com/br/blog/7-ways-to-beat-your-fear-of-travel"
+      },
+      {
+        "pageId": "/blog/8-breathtaking-places-you-must-visit-in-new-zealand",
+        "url": "https://www.smallerearth.com/br/blog/8-breathtaking-places-you-must-visit-in-new-zealand"
+      },
+      {
+        "pageId": "/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure",
+        "url": "https://www.smallerearth.com/br/blog/8-essential-travel-tech-items-to-take-on-your-next-adventure"
+      },
+      {
+        "pageId": "/blog/8-traditional-festivals-around-the-world-you-have-to-experience",
+        "url": "https://www.smallerearth.com/br/blog/8-traditional-festivals-around-the-world-you-have-to-experience"
+      },
+      {
+        "pageId": "/blog/9-benefits-of-traveling-that-will-help-your-career",
+        "url": "https://www.smallerearth.com/br/blog/9-benefits-of-traveling-that-will-help-your-career"
+      },
+      {
+        "pageId": "/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa",
+        "url": "https://www.smallerearth.com/br/blog/9-reasons-why-you-have-to-work-and-tavel-in-the-usa"
+      },
+      {
+        "pageId": "/blog/9-self-development-strategies-to-try-when-travelling",
+        "url": "https://www.smallerearth.com/br/blog/9-self-development-strategies-to-try-when-travelling"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china",
+        "url": "https://www.smallerearth.com/br/blog/a-beginners-guide-to-hiking-tiger-leaping-gorge-in-china"
+      },
+      {
+        "pageId": "/blog/a-beginners-guide-to-solo-travel",
+        "url": "https://www.smallerearth.com/br/blog/a-beginners-guide-to-solo-travel"
+      },
+      {
+        "pageId": "/blog/goal-setting-in-2024-how-to-make-travel-a-priority",
+        "url": "https://www.smallerearth.com/br/blog/goal-setting-in-2024-how-to-make-travel-a-priority"
+      },
+      {
+        "pageId": "/blog/going-green-6-destinations-for-the-sustainable-tourist",
+        "url": "https://www.smallerearth.com/br/blog/going-green-6-destinations-for-the-sustainable-tourist"
+      },
+      {
+        "pageId": "/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world",
+        "url": "https://www.smallerearth.com/br/blog/how-i-overcome-my-fear-of-flying-in-order-to-travel-the-world"
+      },
+      {
+        "pageId": "/blog/how-studying-abroad-shapes-your-adult-identity",
+        "url": "https://www.smallerearth.com/br/blog/how-studying-abroad-shapes-your-adult-identity"
+      },
+      {
+        "pageId": "/blog/how-to-create-a-sustainable-packing-list",
+        "url": "https://www.smallerearth.com/br/blog/how-to-create-a-sustainable-packing-list"
+      },
+      {
+        "pageId": "/blog/how-to-develop-your-sense-of-self-during-travel",
+        "url": "https://www.smallerearth.com/br/blog/how-to-develop-your-sense-of-self-during-travel"
+      },
+      {
+        "pageId": "/blog/how-to-land-your-dream-water-sports-summer-job-abroad",
+        "url": "https://www.smallerearth.com/br/blog/how-to-land-your-dream-water-sports-summer-job-abroad"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-auckland",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-48-hours-in-auckland"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-beijing",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-48-hours-in-beijing"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-nashville",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-48-hours-in-nashville"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-new-york-city",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-48-hours-in-new-york-city"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-san-francisco",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-48-hours-in-san-francisco"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-seattle",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-48-hours-in-seattle"
+      },
+      {
+        "pageId": "/blog/how-to-spend-48-hours-in-toronto",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-48-hours-in-toronto"
+      },
+      {
+        "pageId": "/blog/how-to-spend-a-day-indoors-in-las-vegas",
+        "url": "https://www.smallerearth.com/br/blog/how-to-spend-a-day-indoors-in-las-vegas"
+      },
+      {
+        "pageId": "/blog/how-to-stretch-your-savings-and-travel-more-of-the-world",
+        "url": "https://www.smallerearth.com/br/blog/how-to-stretch-your-savings-and-travel-more-of-the-world"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-1",
+        "url": "https://www.smallerearth.com/br/blog/how-to-travel-the-world-on-a-budget-part-1"
+      },
+      {
+        "pageId": "/blog/how-to-travel-the-world-on-a-budget-part-2",
+        "url": "https://www.smallerearth.com/br/blog/how-to-travel-the-world-on-a-budget-part-2"
+      },
+      {
+        "pageId": "/blog/how-to-travel-toronto-like-a-local-this-summer",
+        "url": "https://www.smallerearth.com/br/blog/how-to-travel-toronto-like-a-local-this-summer"
+      },
+      {
+        "pageId": "/blog/incredible-chinese-train-journeys-that-you-have-to-try",
+        "url": "https://www.smallerearth.com/br/blog/incredible-chinese-train-journeys-that-you-have-to-try"
+      },
+      {
+        "pageId": "/blog/interesting-facts-about-canada-that-will-blow-your-mind",
+        "url": "https://www.smallerearth.com/br/blog/interesting-facts-about-canada-that-will-blow-your-mind"
+      },
+      {
+        "pageId": "/blog/new-year-new-journey",
+        "url": "https://www.smallerearth.com/br/blog/new-year-new-journey"
+      },
+      {
+        "pageId": "/blog/our-pick-of-the-10-best-hikes-in-america-for-a-day-off",
+        "url": "https://www.smallerearth.com/br/blog/our-pick-of-the-10-best-hikes-in-america-for-a-day-off"
+      },
+      {
+        "pageId": "/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers",
+        "url": "https://www.smallerearth.com/br/blog/summer-camp-essentials-from-walmart-for-budgeters-and-ballers"
+      },
+      {
+        "pageId": "/blog/summer-camp-stories-chriss-experience",
+        "url": "https://www.smallerearth.com/br/blog/summer-camp-stories-chriss-experience"
+      },
+      {
+        "pageId": "/blog/summer-camp-stories-libbys-experience",
+        "url": "https://www.smallerearth.com/br/blog/summer-camp-stories-libbys-experience"
+      },
+      {
+        "pageId": "/blog/the-14-most-adventurous-jobs-in-the-world",
+        "url": "https://www.smallerearth.com/br/blog/the-14-most-adventurous-jobs-in-the-world"
+      },
+      {
+        "pageId": "/blog/the-best-things-to-do-on-a-budget-in-beijing",
+        "url": "https://www.smallerearth.com/br/blog/the-best-things-to-do-on-a-budget-in-beijing"
+      },
+      {
+        "pageId": "/blog/the-top-7-china-travel-experiences-you-need-to-have",
+        "url": "https://www.smallerearth.com/br/blog/the-top-7-china-travel-experiences-you-need-to-have"
+      },
+      {
+        "pageId": "/blog/the-ultimate-chinese-provinces-guide",
+        "url": "https://www.smallerearth.com/br/blog/the-ultimate-chinese-provinces-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-new-zealand-working-holiday-guide",
+        "url": "https://www.smallerearth.com/br/blog/the-ultimate-new-zealand-working-holiday-guide"
+      },
+      {
+        "pageId": "/blog/the-ultimate-ontario-summer-bucket-list",
+        "url": "https://www.smallerearth.com/br/blog/the-ultimate-ontario-summer-bucket-list"
+      },
+      {
+        "pageId": "/blog/what-is-mindful-travel-and-why-do-we-need-it",
+        "url": "https://www.smallerearth.com/br/blog/what-is-mindful-travel-and-why-do-we-need-it"
+      },
+      {
+        "pageId": "/blog/what-is-summer-camp-your-guide-to-a-summer-of-a-lifetime",
+        "url": "https://www.smallerearth.com/br/blog/what-is-summer-camp-your-guide-to-a-summer-of-a-lifetime"
+      },
+      {
+        "pageId": "/blog/what-to-pack-for-summer-camp-a-guide-to-your-summer-camp-essentials",
+        "url": "https://www.smallerearth.com/br/blog/what-to-pack-for-summer-camp-a-guide-to-your-summer-camp-essentials"
+      },
+      {
+        "pageId": "/blog/where-to-travel-in-south-east-asia",
+        "url": "https://www.smallerearth.com/br/blog/where-to-travel-in-south-east-asia"
+      },
+      {
+        "pageId": "/blog/why-embracing-change-is-essential-to-growth",
+        "url": "https://www.smallerearth.com/br/blog/why-embracing-change-is-essential-to-growth"
+      },
+      {
+        "pageId": "/blog/why-is-travel-insurance-important-my-5-reasons-to-get-this-travel-essential",
+        "url": "https://www.smallerearth.com/br/blog/why-is-travel-insurance-important-my-5-reasons-to-get-this-travel-essential"
+      },
+      {
+        "pageId": "/blog/why-summer-camp-was-the-best-career-decision-i-ever-made",
+        "url": "https://www.smallerearth.com/br/blog/why-summer-camp-was-the-best-career-decision-i-ever-made"
+      },
+      {
+        "pageId": "/blog/why-travel-is-the-best-education-you-can-get",
+        "url": "https://www.smallerearth.com/br/blog/why-travel-is-the-best-education-you-can-get"
+      },
+      {
+        "pageId": "/blog/why-working-at-summer-camp-is-perfect-for-students",
+        "url": "https://www.smallerearth.com/br/blog/why-working-at-summer-camp-is-perfect-for-students"
+      },
+      {
+        "pageId": "/blog/your-guide-to-being-an-environmentally-aware-traveller",
+        "url": "https://www.smallerearth.com/br/blog/your-guide-to-being-an-environmentally-aware-traveller"
+      },
+      {
+        "pageId": "/blog/your-guide-to-moving-to-another-country-alone",
+        "url": "https://www.smallerearth.com/br/blog/your-guide-to-moving-to-another-country-alone"
+      },
+      {
+        "pageId": "/blog/your-guide-to-summer-camp-provinces-in-canada",
+        "url": "https://www.smallerearth.com/br/blog/your-guide-to-summer-camp-provinces-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-best-national-parks-in-canada",
+        "url": "https://www.smallerearth.com/br/blog/your-guide-to-the-best-national-parks-in-canada"
+      },
+      {
+        "pageId": "/blog/your-guide-to-the-important-interview-questions-for-summer-camp",
+        "url": "https://www.smallerearth.com/br/blog/your-guide-to-the-important-interview-questions-for-summer-camp"
+      },
+      {
+        "pageId": "/destinations/australia",
+        "url": "https://www.smallerearth.com/br/destinations/australia"
+      },
+      {
+        "pageId": "/destinations/thailand",
+        "url": "https://www.smallerearth.com/br/destinations/thailand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-china",
+        "url": "https://www.smallerearth.com/br/destinations/work-abroad-in-china"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-the-usa",
+        "url": "https://www.smallerearth.com/br/destinations/work-abroad-in-the-usa"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-canada",
+        "url": "https://www.smallerearth.com/br/destinations/work-abroad-in-canada"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-japan",
+        "url": "https://www.smallerearth.com/br/destinations/work-abroad-in-japan"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-new-zealand",
+        "url": "https://www.smallerearth.com/br/destinations/work-abroad-in-new-zealand"
+      },
+      {
+        "pageId": "/destinations/work-abroad-in-south-korea",
+        "url": "https://www.smallerearth.com/br/destinations/work-abroad-in-south-korea"
+      },
+      {
+        "pageId": "/work-abroad/gap-year-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/gap-year-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/outdoor-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/outdoor-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/resort-and-hospitality-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/resort-and-hospitality-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/sports-coaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/sports-coaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/student-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/student-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-camp-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/summer-camp-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/summer-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/summer-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/teaching-jobs-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/teaching-jobs-abroad"
+      },
+      {
+        "pageId": "/work-abroad/volunteer-abroad",
+        "url": "https://www.smallerearth.com/br/work-abroad/volunteer-abroad"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-america",
+        "url": "https://www.smallerearth.com/br/programs/summer-camp-in-america"
+      },
+      {
+        "pageId": "/programs/camp-support-in-america",
+        "url": "https://www.smallerearth.com/br/programs/camp-support-in-america"
+      },
+      {
+        "pageId": "/programs/resort-internships-in-america",
+        "url": "https://www.smallerearth.com/br/programs/resort-internships-in-america"
+      },
+      {
+        "pageId": "/programs/resort-traineeship-in-america",
+        "url": "https://www.smallerearth.com/br/programs/resort-traineeship-in-america"
+      },
+      {
+        "pageId": "/programs/summer-camp-in-canada",
+        "url": "https://www.smallerearth.com/br/programs/summer-camp-in-canada"
+      }
+    ],
+    "baseDomain": "www.smallerearth.com"
+  }
+]

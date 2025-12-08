@@ -89,15 +89,26 @@ export async function buildCountryConfig(groups: PageGroup[]): Promise<CountryOr
             console.error(`Error extracting social for ${countryConfig.countryCode}:`, e);
         }
 
-        // Extract contact info
+        // Find contact page (Prioritize patterns order)
         let contactPageUrl = '';
-        for (const group of groups) {
-            const loc = group.locales.find(l => l.countryCode === countryConfig.countryCode);
-            if (loc) {
-                if (config.contactPagePatterns.some(pattern => loc.url.includes(pattern)) ||
-                    config.contactPagePatterns.some(pattern => group.pageId.includes(pattern))) {
+
+        // Iterate through patterns in order of priority
+        for (const pattern of config.contactPagePatterns) {
+            // Check all pages for this country
+            const foundGroup = groups.find(group => {
+                const loc = group.locales.find(l => l.countryCode === countryConfig.countryCode);
+                if (!loc) return false;
+
+                // Check localized URL OR Page ID
+                return loc.url.toLowerCase().includes(pattern.toLowerCase()) ||
+                    group.pageId.toLowerCase().includes(pattern.toLowerCase());
+            });
+
+            if (foundGroup) {
+                const loc = foundGroup.locales.find(l => l.countryCode === countryConfig.countryCode);
+                if (loc) {
                     contactPageUrl = loc.url;
-                    break;
+                    break; // Found the highest priority match
                 }
             }
         }

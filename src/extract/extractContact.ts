@@ -50,6 +50,41 @@ export async function extractContact(url: string, countryCode?: CountryCode): Pr
             }
         }
 
+        // Fallback: Regex for Phone
+        if (!selectedTel) {
+            const bodyText = $('body').text();
+            // Regex to match international numbers: 
+            // Optional +
+            // Optional country code (1-3 digits)
+            // Separators (space, dot, dash)
+            // Groups of digits
+            // Minimum length check is important
+            // This is a broad regex, we rely on filtering
+            const phoneRegex = /(?:\+|00)(?:[0-9] ?){6,14}[0-9]/g;
+            const matches = bodyText.match(phoneRegex) || [];
+
+            if (matches.length > 0) {
+                if (countryCode && countryCallingCodes[countryCode]) {
+                    const callingCode = countryCallingCodes[countryCode];
+                    const targetPrefix = callingCode.replace('+', '');
+
+                    const match = matches.find(tel => {
+                        const cleanTel = tel.replace(/\D/g, '');
+                        return cleanTel.startsWith(targetPrefix);
+                    });
+                    if (match) selectedTel = match.trim();
+                }
+
+                // If still no match and we haven't found anything, take the first valid-looking one
+                if (!selectedTel && matches.length > 0) {
+                    const firstMatch = matches[0];
+                    if (firstMatch) {
+                        selectedTel = firstMatch.trim();
+                    }
+                }
+            }
+        }
+
         if (selectedTel) {
             contact.telephone = selectedTel;
         }
@@ -58,6 +93,16 @@ export async function extractContact(url: string, countryCode?: CountryCode): Pr
         const mailLink = $('a[href^="mailto:"]').first().attr('href');
         if (mailLink) {
             contact.email = mailLink.replace('mailto:', '').trim();
+        } else {
+            // Fallback: Regex for Email
+            const bodyText = $('body').text();
+            const emailRegex = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g;
+            const matches = bodyText.match(emailRegex);
+            if (matches && matches.length > 0) {
+                // Simple heuristic: take the first one, or maybe filter for domain match?
+                // For now, first unique one
+                contact.email = matches[0].trim();
+            }
         }
 
         // Extract Address

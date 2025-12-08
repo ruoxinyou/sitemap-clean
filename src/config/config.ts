@@ -67,9 +67,31 @@ export const config: Config = {
         'nz': { countryCode: 'NZ', defaultLocale: 'en-NZ' },
         'au': { countryCode: 'AU', defaultLocale: 'en-AU' },
         'us': { countryCode: 'US', defaultLocale: 'en-US' },
+        'ie': { countryCode: 'IE', defaultLocale: 'en-IE' },
+        'de': { countryCode: 'DE', defaultLocale: 'de-DE' },
     },
 
-    contactPagePatterns: ['/contact', '/kontakt', '/contact-us', '/nous-contacter', '/o-nas/kontakty', '/about/contact', '/kapcsolat', '/contato', '/mais-informacao/contato', '/rolunk/kapcsolat'],
+    contactPagePatterns: [
+        '/contact',
+        '/kontakt',
+        '/contact-us',
+        '/contactus',
+        '/nous-contacter',
+        '/o-nas/kontakty',
+        '/about/contact',
+        '/kapcsolat',
+        '/contato',
+        '/mais-informacao/contato',
+        '/rolunk/kapcsolat',
+        '/get-in-touch',
+        '/reach-us',
+        '/connect',
+        '/support',
+        '/help',
+        '/acerca-de/contactenos', // Spanish variation seen in sitemap
+        '/nosotros/contactanos', // Another Spanish variation
+        '/about/contact-us' // Common variation
+    ],
 
     selectors: {
         footer: ['footer', '.footer', '#footer', '.site-footer', '.footer-link-wrapper', '.footer-bottom', '.section_footer'],
