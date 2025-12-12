@@ -90,19 +90,49 @@ export async function extractContact(url: string, countryCode?: CountryCode): Pr
         }
 
         // Extract Email
+        // Priority: 1. mailto link, 2. CSS selectors, 3. Regex on spaced text
+        let selectedEmail = '';
+
+        // 1. mailto link
         const mailLink = $('a[href^="mailto:"]').first().attr('href');
         if (mailLink) {
-            contact.email = mailLink.replace('mailto:', '').trim();
-        } else {
-            // Fallback: Regex for Email
-            const bodyText = $('body').text();
+            selectedEmail = mailLink.replace('mailto:', '').trim();
+        }
+
+        // 2. CSS selectors
+        if (!selectedEmail && config.selectors.email) {
+            for (const selector of config.selectors.email) {
+                const el = $(selector).first();
+                if (el.length) {
+                    // Use text() but be careful, usually specific elements are fine
+                    const text = el.text().trim();
+                    // Basic validation
+                    if (text.includes('@')) {
+                        selectedEmail = text;
+                        break;
+                    }
+                }
+            }
+        }
+
+        // 3. Regex Fallback
+        if (!selectedEmail) {
+            // Helper to extract text with spacing to avoid concatenation issues
+            // e.g. "Email" + "uk@..." -> "Email uk@..."
+            const bodyText = $('body *').contents().map((_, el) => {
+                return (el.type === 'text') ? $(el).text() + ' ' : '';
+            }).get().join('');
+
             const emailRegex = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g;
             const matches = bodyText.match(emailRegex);
             if (matches && matches.length > 0) {
-                // Simple heuristic: take the first one, or maybe filter for domain match?
-                // For now, first unique one
-                contact.email = matches[0].trim();
+                // Simple heuristic: take the first one
+                selectedEmail = matches[0].trim();
             }
+        }
+
+        if (selectedEmail) {
+            contact.email = selectedEmail;
         }
 
         // Extract Address

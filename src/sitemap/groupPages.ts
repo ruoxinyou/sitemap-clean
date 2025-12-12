@@ -15,7 +15,7 @@ export function groupPages(parsedUrls: ParsedUrl[]): PageGroup[] {
             }
 
             const url = new URL(urlStr);
-            const { countryCode, locale } = deriveLocale(url);
+            const { countryCode, locale } = deriveLocale(entry);
 
             // Determine canonical URL for Page ID
             let canonicalUrlStr = urlStr;
@@ -67,19 +67,28 @@ export function groupPages(parsedUrls: ParsedUrl[]): PageGroup[] {
     return Array.from(groups.values());
 }
 
-function deriveLocale(url: URL): { countryCode: CountryCode; locale: LocaleCode } {
+function deriveLocale(entry: ParsedUrl): { countryCode: CountryCode; locale: LocaleCode } {
+    const url = new URL(entry.loc);
     const hostname = url.hostname;
 
-    // Check config mapping (hostname)
-    if (config.countryMapping[hostname]) {
-        const mapping = config.countryMapping[hostname];
-        return {
-            countryCode: mapping.countryCode,
-            locale: mapping.defaultLocale
-        };
+    // 1. Check hreflang from sitemap (Highest Priority)
+    if (entry.alternates) {
+        // Find the alternate that matches the current URL
+        const selfAlternate = entry.alternates.find(a => a.href === entry.loc);
+
+        if (selfAlternate && selfAlternate.hreflang !== 'x-default') {
+            const hreflang = selfAlternate.hreflang;
+            if (config.hreflangMapping[hreflang]) {
+                const mapping = config.hreflangMapping[hreflang];
+                return {
+                    countryCode: mapping.countryCode,
+                    locale: mapping.defaultLocale
+                };
+            }
+        }
     }
 
-    // Check path prefix
+    // 2. Check path prefix (Secondary Priority)
     const pathParts = url.pathname.split('/').filter(p => p.length > 0);
     if (pathParts.length > 0) {
         const prefix = pathParts[0];
@@ -90,6 +99,15 @@ function deriveLocale(url: URL): { countryCode: CountryCode; locale: LocaleCode 
                 locale: mapping.defaultLocale
             };
         }
+    }
+
+    // 3. Check config mapping (hostname) as fallback
+    if (config.countryMapping[hostname]) {
+        const mapping = config.countryMapping[hostname];
+        return {
+            countryCode: mapping.countryCode,
+            locale: mapping.defaultLocale
+        };
     }
 
     // Fallback: try to guess from TLD or path (simple heuristic)

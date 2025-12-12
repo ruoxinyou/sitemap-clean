@@ -17,6 +17,14 @@ export interface Config {
         };
     };
 
+    // Mapping from hreflang code to country info
+    hreflangMapping: {
+        [key: string]: {
+            countryCode: CountryCode;
+            defaultLocale: LocaleCode;
+        };
+    };
+
     // URL patterns to identify contact pages
     contactPagePatterns: string[];
 
@@ -25,6 +33,7 @@ export interface Config {
         footer: string[];
         nav: string[];
         address: string[];
+        email?: string[];
     };
 
     // Social media whitelist
@@ -51,6 +60,7 @@ export const config: Config = {
         'fr.example.com': { countryCode: 'FR', defaultLocale: 'fr-FR' },
         // Fallback or generic
         'www.example.com': { countryCode: 'US', defaultLocale: 'en-US' },
+        'www.smallerearth.com': { countryCode: 'WW', defaultLocale: 'en-US' },
     },
 
     pathPrefixMapping: {
@@ -69,6 +79,31 @@ export const config: Config = {
         'us': { countryCode: 'US', defaultLocale: 'en-US' },
         'ie': { countryCode: 'IE', defaultLocale: 'en-IE' },
         'de': { countryCode: 'DE', defaultLocale: 'de-DE' },
+        'es': { countryCode: 'ES', defaultLocale: 'es-ES' },
+        'rosa': { countryCode: 'ROSA', defaultLocale: 'es-419' },
+        'ww': { countryCode: 'WW', defaultLocale: 'en-US' },
+        'eu': { countryCode: 'EU', defaultLocale: 'en-EU' },
+    },
+
+    hreflangMapping: {
+        'en-IE': { countryCode: 'IE', defaultLocale: 'en-IE' },
+        'en-AU': { countryCode: 'AU', defaultLocale: 'en-AU' },
+        'en-NZ': { countryCode: 'NZ', defaultLocale: 'en-NZ' },
+        'de-DE': { countryCode: 'DE', defaultLocale: 'de-DE' },
+        'es-ES': { countryCode: 'ES', defaultLocale: 'es-ES' },
+        'hu': { countryCode: 'HU', defaultLocale: 'hu-HU' },
+        'pl': { countryCode: 'PL', defaultLocale: 'pl-PL' },
+        'sk': { countryCode: 'SK', defaultLocale: 'sk-SK' },
+        'es-MX': { countryCode: 'MX', defaultLocale: 'es-MX' },
+        'es-CO': { countryCode: 'CO', defaultLocale: 'es-CO' },
+        'en-FR': { countryCode: 'EU', defaultLocale: 'en-EU' }, // Mapped to EU per user request
+        'en': { countryCode: 'WW', defaultLocale: 'en-US' },    // Mapped to WW per user request
+        'es-AR': { countryCode: 'ROSA', defaultLocale: 'es-419' }, // Mapped to ROSA per user request
+        'nl': { countryCode: 'NL', defaultLocale: 'nl-NL' },
+        'cs': { countryCode: 'CZ', defaultLocale: 'cs-CZ' },
+        'en-ZA': { countryCode: 'ZA', defaultLocale: 'en-ZA' },
+        'en-US': { countryCode: 'US', defaultLocale: 'en-US' },
+        'en-GB': { countryCode: 'UK', defaultLocale: 'en-GB' },
     },
 
     contactPagePatterns: [
@@ -96,7 +131,8 @@ export const config: Config = {
     selectors: {
         footer: ['footer', '.footer', '#footer', '.site-footer', '.footer-link-wrapper', '.footer-bottom', '.section_footer'],
         nav: ['nav', '.navbar', '.nav', '.main-nav', 'header', '.w-nav', '.navbar_component'],
-        address: ['address', '.address', '.contact-address', '.footer-address']
+        address: ['address', '.address', '.contact-address', '.footer-address'],
+        email: ['.email', '.contact-email', '.mail', '.contact-info-email']
     },
 
     socialWhitelist: [

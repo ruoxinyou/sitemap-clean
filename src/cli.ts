@@ -33,8 +33,15 @@ async function main() {
     const countryConfigs = await buildCountryConfig(groups);
 
     console.log('4. Writing Output...');
+
+    // Transform array to object keyed by countryCode
+    const outputObject: Record<string, any> = {};
+    for (const config of countryConfigs) {
+        outputObject[config.countryCode] = config;
+    }
+
     const outputPath = path.resolve(process.cwd(), 'country-config.json');
-    fs.writeFileSync(outputPath, JSON.stringify(countryConfigs, null, 2));
+    fs.writeFileSync(outputPath, JSON.stringify(outputObject, null, 2));
 
     console.log(`Success! Configuration written to ${outputPath}`);
 }
