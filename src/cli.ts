@@ -9,17 +9,28 @@ axios.defaults.headers.common['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac
 
 import * as fs from 'fs';
 import * as path from 'path';
+import { config } from './config/config';
 
 async function main() {
     const args = process.argv.slice(2);
     const sitemapArgIndex = args.findIndex(arg => arg === '--sitemap' || arg === '-s');
+    const ignoreArgIndex = args.findIndex(arg => arg === '--ignore' || arg === '-i');
 
     if (sitemapArgIndex === -1 || sitemapArgIndex + 1 >= args.length) {
-        console.error('Usage: node cli.js --sitemap <url>');
+        console.error('Usage: node cli.js --sitemap <url> [--ignore "pattern1,pattern2"]');
         process.exit(1);
     }
 
     const sitemapUrl = args[sitemapArgIndex + 1];
+
+    // Handle ignore patterns
+    if (ignoreArgIndex !== -1 && ignoreArgIndex + 1 < args.length) {
+        const ignorePatterns = args[ignoreArgIndex + 1].split(',').map(p => p.trim()).filter(p => p.length > 0);
+        if (ignorePatterns.length > 0) {
+            console.log(`Overriding ignore patterns with: ${JSON.stringify(ignorePatterns)}`);
+            config.urlIgnorePatterns = ignorePatterns;
+        }
+    }
 
     console.log('--- Schema Markup CLI Tool ---');
     console.log('1. Loading Sitemap...');

@@ -28,6 +28,10 @@ Run the tool by providing a sitemap URL:
 
 ```bash
 npm start -- --sitemap https://www.example.com/sitemap.xml
+
+# With custom ignore patterns (comma-separated)
+# This overrides the default patterns ('review', 'copy')
+npm start -- --sitemap https://www.example.com/sitemap.xml --ignore "blog,news,archive"
 ```
 
 The tool will generate a `country-config.json` file containing the structured data configuration for each identified country.
@@ -39,7 +43,7 @@ The tool is highly configurable via `src/config/config.ts`:
 - **`countryMapping`**: Map domains to country codes.
 - **`pathPrefixMapping`**: Map URL path prefixes (e.g., `uk`, `cz`) to country codes.
 - **`contactPagePatterns`**: URL patterns to identify contact pages (checks both URL and Page ID).
-- **`urlIgnorePatterns`**: Patterns to exclude from processing (e.g., `['review', 'copy']`).
+- **`urlIgnorePatterns`**: Default patterns to exclude from processing (e.g., `['review', 'copy']`). Can be overridden via the `--ignore` CLI flag.
 - **`selectors`**: CSS selectors for extracting content (footer, nav, address).
 - **`countryCallingCodes`**: Map of country codes to calling codes for phone prioritization.
 
